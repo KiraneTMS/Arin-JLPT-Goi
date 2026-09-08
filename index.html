@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="theme-color" content="#0f0a1a" />
+  <title>Nihon Word Play — JLPT Vocabulary Quiz</title>
+  <meta name="description" content="Fun, beautiful JLPT vocabulary quiz. Time Attack, Normal & Survival modes. N5 to N1." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- Background sakura petals -->
+  <div class="petals" id="petals" aria-hidden="true"></div>
+
+  <div class="app">
+    <!-- Language switcher (always visible) -->
+    <div class="lang-switcher">
+      <button class="lang-btn active" data-lang="en" title="English">EN</button>
+      <button class="lang-btn" data-lang="id" title="Bahasa Indonesia">ID</button>
+    </div>
+
+    <!-- HOME SCREEN -->
+    <section id="screen-home" class="screen active">
+      <header class="hero">
+        <div class="logo">
+          <span class="logo-jp">日本語</span>
+          <span class="logo-en">Word Play</span>
+        </div>
+        <p class="tagline" data-i18n="tagline">Master JLPT vocabulary the fun way</p>
+      </header>
+
+      <div class="card panel">
+        <h2 class="panel-title" data-i18n="choose_level">Choose Level</h2>
+        <div class="level-grid" id="level-select">
+          <button class="level-btn" data-level="n5">N5<span data-i18n="lvl_n5">Beginner</span></button>
+          <button class="level-btn" data-level="n4">N4<span data-i18n="lvl_n4">Elementary</span></button>
+          <button class="level-btn" data-level="n3">N3<span data-i18n="lvl_n3">Intermediate</span></button>
+          <button class="level-btn" data-level="n2">N2<span data-i18n="lvl_n2">Advanced</span></button>
+          <button class="level-btn" data-level="n1">N1<span data-i18n="lvl_n1">Expert</span></button>
+        </div>
+      </div>
+
+      <div class="card panel">
+        <h2 class="panel-title" data-i18n="choose_mode">Choose Mode</h2>
+        <div class="mode-grid" id="mode-select">
+          <button class="mode-btn" data-mode="time">
+            <div class="mode-icon">⏱</div>
+            <div class="mode-info">
+              <strong data-i18n="mode_time">Time Attack</strong>
+              <span data-i18n="mode_time_desc">Race the clock. Start with 20s — earn more time with streaks!</span>
+            </div>
+          </button>
+          <button class="mode-btn" data-mode="normal">
+            <div class="mode-icon">📝</div>
+            <div class="mode-info">
+              <strong data-i18n="mode_normal">Normal</strong>
+              <span data-i18n="mode_normal_desc">Answer 50 questions. Perfect for focused practice.</span>
+            </div>
+          </button>
+          <button class="mode-btn" data-mode="survival">
+            <div class="mode-icon">🔥</div>
+            <div class="mode-info">
+              <strong data-i18n="mode_survival">Survival</strong>
+              <span data-i18n="mode_survival_desc">Keep going until 3 mistakes. How far can you go?</span>
+            </div>
+          </button>
+        </div>
+      </div>
+
+      <button id="btn-start" class="btn btn-primary btn-lg" disabled data-i18n="btn_select">
+        Select Level & Mode to Start
+      </button>
+
+      <footer class="home-footer">
+        <p data-i18n="footer">Data based on OpenJLPT · CC BY-SA 4.0</p>
+      </footer>
+    </section>
+
+    <!-- QUIZ SCREEN -->
+    <section id="screen-quiz" class="screen">
+      <div class="quiz-top">
+        <button id="btn-quit" class="btn btn-ghost" title="Quit">✕</button>
+        <div class="quiz-meta">
+          <span id="quiz-level" class="badge">N5</span>
+          <span id="quiz-mode" class="badge badge-mode">Time Attack</span>
+        </div>
+        <div id="timer-wrap" class="timer-wrap hidden">
+          <div class="timer-ring">
+            <svg viewBox="0 0 36 36">
+              <path class="timer-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+              <path id="timer-progress" class="timer-fg" stroke-dasharray="100, 100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" />
+            </svg>
+            <span id="timer-text">20</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="progress-bar">
+        <div id="progress-fill" class="progress-fill"></div>
+      </div>
+
+      <div class="stats-row">
+        <div class="stat">
+          <span class="stat-label" data-i18n="stat_score">Score</span>
+          <span id="stat-score" class="stat-value">0</span>
+        </div>
+        <div class="stat" id="stat-streak-wrap">
+          <span class="stat-label" data-i18n="stat_streak">Streak</span>
+          <span id="stat-streak" class="stat-value">0</span>
+        </div>
+        <div class="stat" id="stat-lives-wrap" class="hidden">
+          <span class="stat-label" data-i18n="stat_lives">Lives</span>
+          <span id="stat-lives" class="stat-value">❤️❤️❤️</span>
+        </div>
+        <div class="stat" id="stat-q-wrap">
+          <span class="stat-label" data-i18n="stat_question">Question</span>
+          <span id="stat-q" class="stat-value">1 / 50</span>
+        </div>
+      </div>
+
+      <div class="question-card card">
+        <div class="question-word" id="q-word">食べる</div>
+        <div class="question-reading" id="q-reading">たべる</div>
+        <p class="question-prompt" data-i18n="q_prompt">What does this word mean?</p>
+      </div>
+
+      <div class="choices" id="choices">
+        <!-- filled by JS -->
+      </div>
+
+      <div id="feedback" class="feedback hidden"></div>
+    </section>
+
+    <!-- RESULT SCREEN -->
+    <section id="screen-result" class="screen">
+      <div class="result-card card">
+        <div class="result-emoji" id="result-emoji">🎉</div>
+        <h2 id="result-title">Great job!</h2>
+        <p id="result-subtitle" class="result-sub">You finished the quiz</p>
+
+        <div class="result-stats">
+          <div class="r-stat">
+            <span class="r-value" id="r-score">0</span>
+            <span class="r-label" data-i18n="r_correct">Correct</span>
+          </div>
+          <div class="r-stat">
+            <span class="r-value" id="r-total">0</span>
+            <span class="r-label" data-i18n="r_total">Total</span>
+          </div>
+          <div class="r-stat">
+            <span class="r-value" id="r-pct">0%</span>
+            <span class="r-label" data-i18n="r_accuracy">Accuracy</span>
+          </div>
+          <div class="r-stat" id="r-streak-stat">
+            <span class="r-value" id="r-best-streak">0</span>
+            <span class="r-label" data-i18n="r_best_streak">Best Streak</span>
+          </div>
+        </div>
+
+        <div class="result-actions">
+          <button id="btn-retry" class="btn btn-primary" data-i18n="btn_retry">Play Again</button>
+          <button id="btn-home" class="btn btn-secondary" data-i18n="btn_home">Back to Home</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
