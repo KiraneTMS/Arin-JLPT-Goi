@@ -45,7 +45,7 @@
     "word": "あいさつする",
     "reading": "",
     "meanings": [
-      "to greet"
+      "greet"
     ],
     "level": "N4",
     "meanings_id": [
@@ -98,7 +98,7 @@
     "word": "あげる",
     "reading": "",
     "meanings": [
-      "to give"
+      "give"
     ],
     "level": "N4",
     "examples": [
@@ -266,7 +266,7 @@
     "word": "いじめる",
     "reading": "",
     "meanings": [
-      "to tease"
+      "tease"
     ],
     "level": "N4",
     "examples": [
@@ -320,7 +320,7 @@
     "reading": "",
     "meanings": [
       "(respectful) to be",
-      "to come or to go"
+      "come or to go"
     ],
     "level": "N4",
     "examples": [
@@ -342,7 +342,7 @@
     "word": "うかがう",
     "reading": "",
     "meanings": [
-      "to visit"
+      "visit"
     ],
     "level": "N4",
     "meanings_id": [
@@ -883,7 +883,7 @@
     "word": "かまう",
     "reading": "",
     "meanings": [
-      "to mind"
+      "mind"
     ],
     "level": "N4",
     "meanings_id": [
@@ -953,7 +953,7 @@
     "word": "くれる",
     "reading": "",
     "meanings": [
-      "to give"
+      "give"
     ],
     "level": "N4",
     "examples": [
@@ -995,7 +995,7 @@
     "word": "けがする",
     "reading": "",
     "meanings": [
-      "to injure"
+      "injure"
     ],
     "level": "N4",
     "meanings_id": [
@@ -1017,7 +1017,7 @@
     "word": "けんかする",
     "reading": "",
     "meanings": [
-      "to quarrel"
+      "quarrel"
     ],
     "level": "N4",
     "examples": [
@@ -1515,7 +1515,7 @@
     "word": "すく",
     "reading": "",
     "meanings": [
-      "to become empty"
+      "become empty"
     ],
     "level": "N4",
     "examples": [
@@ -1822,7 +1822,7 @@
     "word": "それほど",
     "reading": "",
     "meanings": [
-      "to that extent"
+      "that extent"
     ],
     "level": "N4",
     "examples": [
@@ -2009,7 +2009,7 @@
     "word": "チェックする",
     "reading": "",
     "meanings": [
-      "to check"
+      "check"
     ],
     "level": "N4",
     "examples": [
@@ -2318,7 +2318,7 @@
     "word": "ぬれる",
     "reading": "",
     "meanings": [
-      "to get wet"
+      "get wet"
     ],
     "level": "N4",
     "examples": [
@@ -2525,7 +2525,7 @@
     "word": "びっくりする",
     "reading": "",
     "meanings": [
-      "to be surprised"
+      "be surprised"
     ],
     "level": "N4",
     "examples": [
@@ -2714,7 +2714,7 @@
     "word": "ほめる",
     "reading": "",
     "meanings": [
-      "to praise"
+      "praise"
     ],
     "level": "N4",
     "examples": [
@@ -2874,7 +2874,7 @@
     "word": "もらう",
     "reading": "",
     "meanings": [
-      "to receive"
+      "receive"
     ],
     "level": "N4",
     "examples": [
@@ -3047,7 +3047,7 @@
     "word": "案内",
     "reading": "あんないする",
     "meanings": [
-      "to guide"
+      "guide"
     ],
     "level": "N4",
     "examples": [
@@ -3196,7 +3196,7 @@
     "word": "移る",
     "reading": "うつる",
     "meanings": [
-      "to move house or transfer"
+      "move house or transfer"
     ],
     "level": "N4",
     "examples": [
@@ -3238,8 +3238,8 @@
     "word": "育てる",
     "reading": "そだてる",
     "meanings": [
-      "to rear",
-      "to bring up"
+      "rear",
+      "bring up"
     ],
     "level": "N4",
     "examples": [
@@ -3326,7 +3326,7 @@
     "word": "引き出す",
     "reading": "ひきだす",
     "meanings": [
-      "to withdraw"
+      "withdraw"
     ],
     "level": "N4",
     "examples": [
@@ -3347,7 +3347,7 @@
     "word": "引っ越す",
     "reading": "ひっこす",
     "meanings": [
-      "to move house"
+      "move house"
     ],
     "level": "N4",
     "examples": [
@@ -3368,7 +3368,7 @@
     "word": "運ぶ",
     "reading": "はこぶ",
     "meanings": [
-      "to transport"
+      "transport"
     ],
     "level": "N4",
     "examples": [
@@ -3389,7 +3389,7 @@
     "word": "運転",
     "reading": "うんてんする",
     "meanings": [
-      "to drive"
+      "drive"
     ],
     "level": "N4",
     "examples": [
@@ -3431,7 +3431,7 @@
     "word": "運動",
     "reading": "うんどうする",
     "meanings": [
-      "to exercise"
+      "exercise"
     ],
     "level": "N4",
     "examples": [
@@ -3515,8 +3515,8 @@
     "word": "遠慮",
     "reading": "えんりょする",
     "meanings": [
-      "to be reserved",
-      "to be restrained"
+      "be reserved",
+      "be restrained"
     ],
     "level": "N4",
     "examples": [
@@ -3538,7 +3538,7 @@
     "word": "汚れる",
     "reading": "よごれる",
     "meanings": [
-      "to get dirty"
+      "get dirty"
     ],
     "level": "N4",
     "examples": [
@@ -3645,9 +3645,9 @@
     "word": "下げる",
     "reading": "さげる",
     "meanings": [
-      "to hang",
-      "to lower",
-      "to move back"
+      "hang",
+      "lower",
+      "move back"
     ],
     "level": "N4",
     "examples": [
@@ -3670,7 +3670,7 @@
     "word": "下りる",
     "reading": "おりる",
     "meanings": [
-      "to get off"
+      "get off"
     ],
     "level": "N4",
     "examples": [
@@ -3691,8 +3691,8 @@
     "word": "下る",
     "reading": "さがる",
     "meanings": [
-      "to get down",
-      "to descend"
+      "get down",
+      "descend"
     ],
     "level": "N4",
     "examples": [
@@ -3882,7 +3882,7 @@
     "word": "過ぎる",
     "reading": "すぎる",
     "meanings": [
-      "to exceed"
+      "exceed"
     ],
     "level": "N4",
     "examples": [
@@ -3987,7 +3987,7 @@
     "word": "回る",
     "reading": "まわる",
     "meanings": [
-      "to go around"
+      "go around"
     ],
     "level": "N4",
     "examples": [
@@ -4008,7 +4008,7 @@
     "word": "壊す",
     "reading": "こわす",
     "meanings": [
-      "to break"
+      "break"
     ],
     "level": "N4",
     "examples": [
@@ -4029,7 +4029,7 @@
     "word": "壊れる",
     "reading": "こわれる",
     "meanings": [
-      "to be broken"
+      "be broken"
     ],
     "level": "N4",
     "examples": [
@@ -4092,7 +4092,7 @@
     "word": "開く",
     "reading": "ひらく",
     "meanings": [
-      "to open an event"
+      "open an event"
     ],
     "level": "N4",
     "examples": [
@@ -4155,7 +4155,7 @@
     "word": "楽む",
     "reading": "たのしむ",
     "meanings": [
-      "to enjoy oneself"
+      "enjoy oneself"
     ],
     "level": "N4",
     "meanings_id": [
@@ -4166,7 +4166,7 @@
     "word": "掛ける",
     "reading": "かける",
     "meanings": [
-      "to hang something"
+      "hang something"
     ],
     "level": "N4",
     "examples": [
@@ -4187,7 +4187,7 @@
     "word": "割れる",
     "reading": "われる",
     "meanings": [
-      "to break"
+      "break"
     ],
     "level": "N4",
     "examples": [
@@ -4233,8 +4233,8 @@
     "word": "滑る",
     "reading": "すべる",
     "meanings": [
-      "to slide",
-      "to slip"
+      "slide",
+      "slip"
     ],
     "level": "N4",
     "examples": [
@@ -4256,8 +4256,8 @@
     "word": "噛む",
     "reading": "かむ",
     "meanings": [
-      "to bite",
-      "to chew"
+      "bite",
+      "chew"
     ],
     "level": "N4",
     "examples": [
@@ -4279,7 +4279,7 @@
     "word": "乾く",
     "reading": "かわく",
     "meanings": [
-      "to get dry"
+      "get dry"
     ],
     "level": "N4",
     "examples": [
@@ -4300,7 +4300,7 @@
     "word": "慣れる",
     "reading": "なれる",
     "meanings": [
-      "to grow accustomed to"
+      "grow accustomed to"
     ],
     "level": "N4",
     "examples": [
@@ -4384,7 +4384,7 @@
     "word": "間に合う",
     "reading": "まにあう",
     "meanings": [
-      "to be in time for"
+      "be in time for"
     ],
     "level": "N4",
     "examples": [
@@ -4405,7 +4405,7 @@
     "word": "間違える",
     "reading": "まちがえる",
     "meanings": [
-      "to make a mistake"
+      "make a mistake"
     ],
     "level": "N4",
     "examples": [
@@ -4468,7 +4468,7 @@
     "word": "喜ぶ",
     "reading": "よろこぶ",
     "meanings": [
-      "to be delighted"
+      "be delighted"
     ],
     "level": "N4",
     "examples": [
@@ -4489,7 +4489,7 @@
     "word": "寄る",
     "reading": "よる",
     "meanings": [
-      "to visit"
+      "visit"
     ],
     "level": "N4",
     "examples": [
@@ -4640,7 +4640,7 @@
     "word": "祈る",
     "reading": "いのる",
     "meanings": [
-      "to pray"
+      "pray"
     ],
     "level": "N4",
     "examples": [
@@ -4703,7 +4703,7 @@
     "word": "起す",
     "reading": "おこす",
     "meanings": [
-      "to wake"
+      "wake"
     ],
     "level": "N4",
     "examples": [
@@ -4816,7 +4816,7 @@
     "word": "急ぐ",
     "reading": "いそぐ",
     "meanings": [
-      "to hurry"
+      "hurry"
     ],
     "level": "N4",
     "examples": [
@@ -4860,7 +4860,7 @@
     "word": "泣く",
     "reading": "なく",
     "meanings": [
-      "to weep"
+      "weep"
     ],
     "level": "N4",
     "examples": [
@@ -4986,7 +4986,7 @@
     "word": "驚く",
     "reading": "おどろく",
     "meanings": [
-      "to be surprised"
+      "be surprised"
     ],
     "level": "N4",
     "examples": [
@@ -5072,8 +5072,8 @@
     "word": "空く",
     "reading": "あく",
     "meanings": [
-      "to open",
-      "to become empty"
+      "open",
+      "become empty"
     ],
     "level": "N4",
     "examples": [
@@ -5227,7 +5227,7 @@
     "word": "経験",
     "reading": "けいけんする",
     "meanings": [
-      "to experience"
+      "experience"
     ],
     "level": "N4",
     "examples": [
@@ -5271,7 +5271,7 @@
     "word": "計画",
     "reading": "けいかくする",
     "meanings": [
-      "to plan"
+      "plan"
     ],
     "level": "N4",
     "examples": [
@@ -5313,7 +5313,7 @@
     "word": "迎える",
     "reading": "むかえる",
     "meanings": [
-      "to go out to meet"
+      "go out to meet"
     ],
     "level": "N4",
     "examples": [
@@ -5355,7 +5355,7 @@
     "word": "決める",
     "reading": "きめる",
     "meanings": [
-      "to decide"
+      "decide"
     ],
     "level": "N4",
     "examples": [
@@ -5376,7 +5376,7 @@
     "word": "決る",
     "reading": "きまる",
     "meanings": [
-      "to be decided"
+      "be decided"
     ],
     "level": "N4",
     "examples": [
@@ -5425,7 +5425,7 @@
     "word": "建てる",
     "reading": "たてる",
     "meanings": [
-      "to build"
+      "build"
     ],
     "level": "N4",
     "examples": [
@@ -5511,7 +5511,7 @@
     "word": "見える",
     "reading": "みえる",
     "meanings": [
-      "to be in sight"
+      "be in sight"
     ],
     "level": "N4",
     "examples": [
@@ -5532,7 +5532,7 @@
     "word": "見つかる",
     "reading": "みつかる",
     "meanings": [
-      "to be discovered"
+      "be discovered"
     ],
     "level": "N4",
     "examples": [
@@ -5553,7 +5553,7 @@
     "word": "見つける",
     "reading": "みつける",
     "meanings": [
-      "to discover"
+      "discover"
     ],
     "level": "N4",
     "examples": [
@@ -5639,7 +5639,7 @@
     "word": "故障",
     "reading": "こしょうする",
     "meanings": [
-      "to break-down"
+      "break-down"
     ],
     "level": "N4",
     "examples": [
@@ -5736,8 +5736,8 @@
     "word": "光る",
     "reading": "ひかる",
     "meanings": [
-      "to shine",
-      "to glitter"
+      "shine",
+      "glitter"
     ],
     "level": "N4",
     "examples": [
@@ -5780,7 +5780,7 @@
     "word": "向かう",
     "reading": "むかう",
     "meanings": [
-      "to face"
+      "face"
     ],
     "level": "N4",
     "examples": [
@@ -5885,7 +5885,7 @@
     "word": "考える",
     "reading": "かんがえる",
     "meanings": [
-      "to consider"
+      "consider"
     ],
     "level": "N4",
     "examples": [
@@ -5906,7 +5906,7 @@
     "word": "行う",
     "reading": "おこなう",
     "meanings": [
-      "to do"
+      "do"
     ],
     "level": "N4",
     "examples": [
@@ -5990,7 +5990,7 @@
     "word": "降り出す",
     "reading": "ふりだす",
     "meanings": [
-      "to start to rain"
+      "start to rain"
     ],
     "level": "N4",
     "examples": [
@@ -6074,7 +6074,7 @@
     "word": "合う",
     "reading": "あう",
     "meanings": [
-      "to match"
+      "match"
     ],
     "level": "N4",
     "examples": [
@@ -6116,7 +6116,7 @@
     "word": "込む",
     "reading": "こむ",
     "meanings": [
-      "to be crowded"
+      "be crowded"
     ],
     "level": "N4",
     "examples": [
@@ -6309,7 +6309,7 @@
     "word": "済む",
     "reading": "すむ",
     "meanings": [
-      "to finish"
+      "finish"
     ],
     "level": "N4",
     "examples": [
@@ -6377,7 +6377,7 @@
     "reading": "まいる",
     "meanings": [
       "(humble) to go",
-      "to come"
+      "come"
     ],
     "level": "N4",
     "examples": [
@@ -6420,7 +6420,7 @@
     "word": "残る",
     "reading": "のこる",
     "meanings": [
-      "to remain"
+      "remain"
     ],
     "level": "N4",
     "examples": [
@@ -6483,7 +6483,7 @@
     "word": "始める",
     "reading": "はじめる",
     "meanings": [
-      "to begin"
+      "begin"
     ],
     "level": "N4",
     "examples": [
@@ -6567,7 +6567,7 @@
     "word": "思い出す",
     "reading": "おもいだす",
     "meanings": [
-      "to remember"
+      "remember"
     ],
     "level": "N4",
     "examples": [
@@ -6588,8 +6588,8 @@
     "word": "思う",
     "reading": "おもう",
     "meanings": [
-      "to think",
-      "to feel"
+      "think",
+      "feel"
     ],
     "level": "N4",
     "examples": [
@@ -6653,7 +6653,7 @@
     "word": "支度",
     "reading": "したくする",
     "meanings": [
-      "to prepare"
+      "prepare"
     ],
     "level": "N4",
     "examples": [
@@ -6697,7 +6697,7 @@
     "word": "止む",
     "reading": "やむ",
     "meanings": [
-      "to stop"
+      "stop"
     ],
     "level": "N4",
     "examples": [
@@ -6718,7 +6718,7 @@
     "word": "止める",
     "reading": "とめる",
     "meanings": [
-      "to stop something"
+      "stop something"
     ],
     "level": "N4",
     "examples": [
@@ -6867,7 +6867,7 @@
     "word": "似る",
     "reading": "にる",
     "meanings": [
-      "to be similar"
+      "be similar"
     ],
     "level": "N4",
     "examples": [
@@ -6951,8 +6951,8 @@
     "word": "治る",
     "reading": "なおる",
     "meanings": [
-      "to be cured",
-      "to heal"
+      "be cured",
+      "heal"
     ],
     "level": "N4",
     "examples": [
@@ -7039,7 +7039,7 @@
     "word": "写す",
     "reading": "うつす",
     "meanings": [
-      "to copy or photograph"
+      "copy or photograph"
     ],
     "level": "N4",
     "examples": [
@@ -7060,7 +7060,7 @@
     "word": "捨てる",
     "reading": "すてる",
     "meanings": [
-      "to throw away"
+      "throw away"
     ],
     "level": "N4",
     "examples": [
@@ -7125,7 +7125,7 @@
     "word": "謝る",
     "reading": "あやまる",
     "meanings": [
-      "to apologize"
+      "apologize"
     ],
     "level": "N4",
     "examples": [
@@ -7167,7 +7167,7 @@
     "word": "取り替える",
     "reading": "とりかえる",
     "meanings": [
-      "to exchange"
+      "exchange"
     ],
     "level": "N4",
     "examples": [
@@ -7209,7 +7209,7 @@
     "word": "手伝う",
     "reading": "てつだう",
     "meanings": [
-      "to assist"
+      "assist"
     ],
     "level": "N4",
     "examples": [
@@ -7272,7 +7272,7 @@
     "word": "受ける",
     "reading": "うける",
     "meanings": [
-      "to take a lesson or test"
+      "take a lesson or test"
     ],
     "level": "N4",
     "examples": [
@@ -7335,8 +7335,8 @@
     "word": "拾う",
     "reading": "ひろう",
     "meanings": [
-      "to pick up",
-      "to gather"
+      "pick up",
+      "gather"
     ],
     "level": "N4",
     "examples": [
@@ -7423,7 +7423,7 @@
     "word": "集める",
     "reading": "あつめる",
     "meanings": [
-      "to collect something"
+      "collect something"
     ],
     "level": "N4",
     "examples": [
@@ -7444,7 +7444,7 @@
     "word": "集る",
     "reading": "あつまる",
     "meanings": [
-      "to gather"
+      "gather"
     ],
     "level": "N4",
     "meanings_id": [
@@ -7541,7 +7541,7 @@
     "word": "出席",
     "reading": "しゅっせきする",
     "meanings": [
-      "to attend"
+      "attend"
     ],
     "level": "N4",
     "examples": [
@@ -7562,7 +7562,7 @@
     "word": "出発",
     "reading": "しゅっぱつする",
     "meanings": [
-      "to depart"
+      "depart"
     ],
     "level": "N4",
     "examples": [
@@ -7583,7 +7583,7 @@
     "word": "準備",
     "reading": "じゅんびする",
     "meanings": [
-      "to prepare"
+      "prepare"
     ],
     "level": "N4",
     "examples": [
@@ -7625,7 +7625,7 @@
     "word": "勝つ",
     "reading": "かつ",
     "meanings": [
-      "to win"
+      "win"
     ],
     "level": "N4",
     "examples": [
@@ -7753,7 +7753,7 @@
     "word": "承知",
     "reading": "しょうちする",
     "meanings": [
-      "to consent"
+      "consent"
     ],
     "level": "N4",
     "examples": [
@@ -7774,7 +7774,7 @@
     "word": "招待",
     "reading": "しょうたいする",
     "meanings": [
-      "to invite"
+      "invite"
     ],
     "level": "N4",
     "examples": [
@@ -7816,8 +7816,8 @@
     "word": "焼く",
     "reading": "やく",
     "meanings": [
-      "to bake",
-      "to grill"
+      "bake",
+      "grill"
     ],
     "level": "N4",
     "examples": [
@@ -7839,8 +7839,8 @@
     "word": "焼ける",
     "reading": "やける",
     "meanings": [
-      "to burn",
-      "to be roasted"
+      "burn",
+      "be roasted"
     ],
     "level": "N4",
     "examples": [
@@ -7862,8 +7862,8 @@
     "word": "笑う",
     "reading": "わらう",
     "meanings": [
-      "to laugh",
-      "to smile"
+      "laugh",
+      "smile"
     ],
     "level": "N4",
     "examples": [
@@ -7906,7 +7906,7 @@
     "word": "上る",
     "reading": "あがる",
     "meanings": [
-      "to rise"
+      "rise"
     ],
     "level": "N4",
     "examples": [
@@ -7927,7 +7927,7 @@
     "word": "乗り換える",
     "reading": "のりかえる",
     "meanings": [
-      "to change between buses or trains"
+      "change between buses or trains"
     ],
     "level": "N4",
     "examples": [
@@ -8032,7 +8032,7 @@
     "word": "飾る",
     "reading": "かざる",
     "meanings": [
-      "to decorate"
+      "decorate"
     ],
     "level": "N4",
     "examples": [
@@ -8053,8 +8053,8 @@
     "word": "植える",
     "reading": "うえる",
     "meanings": [
-      "to plant",
-      "to grow"
+      "plant",
+      "grow"
     ],
     "level": "N4",
     "examples": [
@@ -8076,7 +8076,7 @@
     "word": "触る",
     "reading": "さわる",
     "meanings": [
-      "to touch"
+      "touch"
     ],
     "level": "N4",
     "examples": [
@@ -8097,7 +8097,7 @@
     "word": "食事",
     "reading": "しょくじする",
     "meanings": [
-      "to have a meal"
+      "have a meal"
     ],
     "level": "N4",
     "examples": [
@@ -8183,7 +8183,7 @@
     "word": "心配",
     "reading": "しんぱいする",
     "meanings": [
-      "to worry"
+      "worry"
     ],
     "level": "N4",
     "examples": [
@@ -8268,7 +8268,7 @@
     "reading": "もうしあげる",
     "meanings": [
       "(humble) to say",
-      "to tell"
+      "tell"
     ],
     "level": "N4",
     "examples": [
@@ -8291,7 +8291,7 @@
     "reading": "もうす",
     "meanings": [
       "(humble) to be called",
-      "to say"
+      "say"
     ],
     "level": "N4",
     "meanings_id": [
@@ -8387,7 +8387,7 @@
     "word": "進む",
     "reading": "すすむ",
     "meanings": [
-      "to make progress"
+      "make progress"
     ],
     "level": "N4",
     "examples": [
@@ -8452,7 +8452,7 @@
     "word": "尋ねる",
     "reading": "たずねる",
     "meanings": [
-      "to ask"
+      "ask"
     ],
     "level": "N4",
     "examples": [
@@ -8559,7 +8559,7 @@
     "word": "世話",
     "reading": "せわする",
     "meanings": [
-      "to look after"
+      "look after"
     ],
     "level": "N4",
     "examples": [
@@ -8666,7 +8666,7 @@
     "word": "生きる",
     "reading": "いきる",
     "meanings": [
-      "to live"
+      "live"
     ],
     "level": "N4",
     "examples": [
@@ -8687,7 +8687,7 @@
     "word": "生活",
     "reading": "せいかつする",
     "meanings": [
-      "to live"
+      "live"
     ],
     "level": "N4",
     "examples": [
@@ -8708,7 +8708,7 @@
     "word": "生産",
     "reading": "せいさんする",
     "meanings": [
-      "to produce"
+      "produce"
     ],
     "level": "N4",
     "examples": [
@@ -8859,7 +8859,7 @@
     "word": "折る",
     "reading": "おる",
     "meanings": [
-      "to break or to fold"
+      "break or to fold"
     ],
     "level": "N4",
     "examples": [
@@ -8880,7 +8880,7 @@
     "word": "折れる",
     "reading": "おれる",
     "meanings": [
-      "to break or be folded"
+      "break or be folded"
     ],
     "level": "N4",
     "examples": [
@@ -9008,7 +9008,7 @@
     "word": "選ぶ",
     "reading": "えらぶ",
     "meanings": [
-      "to choose"
+      "choose"
     ],
     "level": "N4",
     "examples": [
@@ -9071,7 +9071,7 @@
     "word": "痩せる",
     "reading": "やせる",
     "meanings": [
-      "to become thin"
+      "become thin"
     ],
     "level": "N4",
     "examples": [
@@ -9092,7 +9092,7 @@
     "word": "相談",
     "reading": "そうだんする",
     "meanings": [
-      "to discuss"
+      "discuss"
     ],
     "level": "N4",
     "examples": [
@@ -9134,7 +9134,7 @@
     "word": "送る",
     "reading": "おくる",
     "meanings": [
-      "to send"
+      "send"
     ],
     "level": "N4",
     "examples": [
@@ -9155,8 +9155,8 @@
     "word": "騒ぐ",
     "reading": "さわぐ",
     "meanings": [
-      "to make noise",
-      "to be excited"
+      "make noise",
+      "be excited"
     ],
     "level": "N4",
     "examples": [
@@ -9178,7 +9178,7 @@
     "word": "増える",
     "reading": "ふえる",
     "meanings": [
-      "to increase"
+      "increase"
     ],
     "level": "N4",
     "examples": [
@@ -9241,7 +9241,7 @@
     "word": "足す",
     "reading": "たす",
     "meanings": [
-      "to add a number"
+      "add a number"
     ],
     "level": "N4",
     "examples": [
@@ -9262,7 +9262,7 @@
     "word": "足りる",
     "reading": "たりる",
     "meanings": [
-      "to be enough"
+      "be enough"
     ],
     "level": "N4",
     "examples": [
@@ -9283,7 +9283,7 @@
     "word": "続く",
     "reading": "つづく",
     "meanings": [
-      "to be continued"
+      "be continued"
     ],
     "level": "N4",
     "examples": [
@@ -9304,7 +9304,7 @@
     "word": "続ける",
     "reading": "つづける",
     "meanings": [
-      "to continue"
+      "continue"
     ],
     "level": "N4",
     "examples": [
@@ -9346,7 +9346,7 @@
     "word": "太る",
     "reading": "ふとる",
     "meanings": [
-      "to become fat"
+      "become fat"
     ],
     "level": "N4",
     "examples": [
@@ -9367,7 +9367,7 @@
     "word": "打つ",
     "reading": "うつ",
     "meanings": [
-      "to hit"
+      "hit"
     ],
     "level": "N4",
     "examples": [
@@ -9388,7 +9388,7 @@
     "word": "退院",
     "reading": "たいいんする",
     "meanings": [
-      "to leave hospital"
+      "leave hospital"
     ],
     "level": "N4",
     "examples": [
@@ -9562,7 +9562,7 @@
     "word": "探す",
     "reading": "さがす",
     "meanings": [
-      "to look for"
+      "look for"
     ],
     "level": "N4",
     "examples": [
@@ -9625,7 +9625,7 @@
     "word": "知らせる",
     "reading": "しらせる",
     "meanings": [
-      "to notify"
+      "notify"
     ],
     "level": "N4",
     "examples": [
@@ -9730,7 +9730,7 @@
     "word": "遅れる",
     "reading": "おくれる",
     "meanings": [
-      "to be late"
+      "be late"
     ],
     "level": "N4",
     "examples": [
@@ -9955,7 +9955,7 @@
     "word": "調べる",
     "reading": "しらべる",
     "meanings": [
-      "to investigate"
+      "investigate"
     ],
     "level": "N4",
     "examples": [
@@ -9976,8 +9976,8 @@
     "word": "直す",
     "reading": "なおす",
     "meanings": [
-      "to fix",
-      "to repair"
+      "fix",
+      "repair"
     ],
     "level": "N4",
     "examples": [
@@ -9999,8 +9999,8 @@
     "word": "直る",
     "reading": "なおる",
     "meanings": [
-      "to be fixed",
-      "to be repaired"
+      "be fixed",
+      "be repaired"
     ],
     "level": "N4",
     "examples": [
@@ -10043,7 +10043,7 @@
     "word": "通う",
     "reading": "かよう",
     "meanings": [
-      "to commute"
+      "commute"
     ],
     "level": "N4",
     "examples": [
@@ -10064,7 +10064,7 @@
     "word": "通る",
     "reading": "とおる",
     "meanings": [
-      "to go through"
+      "go through"
     ],
     "level": "N4",
     "examples": [
@@ -10085,8 +10085,8 @@
     "word": "漬ける",
     "reading": "つける",
     "meanings": [
-      "to soak",
-      "to pickle"
+      "soak",
+      "pickle"
     ],
     "level": "N4",
     "examples": [
@@ -10104,7 +10104,7 @@
     "word": "釣る",
     "reading": "つる",
     "meanings": [
-      "to fish"
+      "fish"
     ],
     "level": "N4",
     "examples": [
@@ -10249,7 +10249,7 @@
     "word": "伝える",
     "reading": "つたえる",
     "meanings": [
-      "to report"
+      "report"
     ],
     "level": "N4",
     "examples": [
@@ -10333,8 +10333,8 @@
     "word": "塗る",
     "reading": "ぬる",
     "meanings": [
-      "to paint",
-      "to plaster"
+      "paint",
+      "plaster"
     ],
     "level": "N4",
     "examples": [
@@ -10421,8 +10421,8 @@
     "word": "怒る",
     "reading": "おこる",
     "meanings": [
-      "to get angry",
-      "to be angry"
+      "get angry",
+      "be angry"
     ],
     "level": "N4",
     "examples": [
@@ -10444,7 +10444,7 @@
     "word": "倒れる",
     "reading": "たおれる",
     "meanings": [
-      "to break down"
+      "break down"
     ],
     "level": "N4",
     "examples": [
@@ -10486,7 +10486,7 @@
     "word": "投げる",
     "reading": "なげる",
     "meanings": [
-      "to throw or cast away"
+      "throw or cast away"
     ],
     "level": "N4",
     "examples": [
@@ -10507,7 +10507,7 @@
     "word": "盗む",
     "reading": "ぬすむ",
     "meanings": [
-      "to steal"
+      "steal"
     ],
     "level": "N4",
     "examples": [
@@ -10570,7 +10570,7 @@
     "word": "踏む",
     "reading": "ふむ",
     "meanings": [
-      "to step on"
+      "step on"
     ],
     "level": "N4",
     "examples": [
@@ -10591,7 +10591,7 @@
     "word": "逃げる",
     "reading": "にげる",
     "meanings": [
-      "to escape"
+      "escape"
     ],
     "level": "N4",
     "examples": [
@@ -10612,7 +10612,7 @@
     "word": "動く",
     "reading": "うごく",
     "meanings": [
-      "to move"
+      "move"
     ],
     "level": "N4",
     "examples": [
@@ -10742,7 +10742,7 @@
     "word": "届ける",
     "reading": "とどける",
     "meanings": [
-      "to reach"
+      "reach"
     ],
     "level": "N4",
     "examples": [
@@ -10818,7 +10818,7 @@
     "word": "入院",
     "reading": "にゅういんする",
     "meanings": [
-      "to hospitalise"
+      "hospitalise"
     ],
     "level": "N4",
     "examples": [
@@ -10839,7 +10839,7 @@
     "word": "入学",
     "reading": "にゅうがくする",
     "meanings": [
-      "to enter school or university"
+      "enter school or university"
     ],
     "level": "N4",
     "examples": [
@@ -10965,7 +10965,7 @@
     "word": "泊まる",
     "reading": "とまる",
     "meanings": [
-      "to lodge at"
+      "lodge at"
     ],
     "level": "N4",
     "examples": [
@@ -11158,7 +11158,7 @@
     "word": "比べる",
     "reading": "くらべる",
     "meanings": [
-      "to compare"
+      "compare"
     ],
     "level": "N4",
     "examples": [
@@ -11370,7 +11370,7 @@
     "word": "付く",
     "reading": "つく",
     "meanings": [
-      "to be attached"
+      "be attached"
     ],
     "level": "N4",
     "examples": [
@@ -11479,7 +11479,7 @@
     "word": "負ける",
     "reading": "まける",
     "meanings": [
-      "to lose"
+      "lose"
     ],
     "level": "N4",
     "examples": [
@@ -11565,7 +11565,7 @@
     "word": "払う",
     "reading": "はらう",
     "meanings": [
-      "to pay"
+      "pay"
     ],
     "level": "N4",
     "examples": [
@@ -11586,8 +11586,8 @@
     "word": "沸かす",
     "reading": "わかす",
     "meanings": [
-      "to boil",
-      "to heat"
+      "boil",
+      "heat"
     ],
     "level": "N4",
     "meanings_id": [
@@ -11599,9 +11599,9 @@
     "word": "沸く",
     "reading": "わく",
     "meanings": [
-      "to boil",
-      "to grow hot",
-      "to get excited"
+      "boil",
+      "grow hot",
+      "get excited"
     ],
     "level": "N4",
     "examples": [
@@ -11687,7 +11687,7 @@
     "word": "聞こえる",
     "reading": "きこえる",
     "meanings": [
-      "to be heard"
+      "be heard"
     ],
     "level": "N4",
     "examples": [
@@ -11771,7 +11771,7 @@
     "word": "別れる",
     "reading": "わかれる",
     "meanings": [
-      "to separate"
+      "separate"
     ],
     "level": "N4",
     "examples": [
@@ -11813,7 +11813,7 @@
     "word": "変える",
     "reading": "かえる",
     "meanings": [
-      "to change"
+      "change"
     ],
     "level": "N4",
     "examples": [
@@ -11834,7 +11834,7 @@
     "word": "変わる",
     "reading": "かわる",
     "meanings": [
-      "to change"
+      "change"
     ],
     "level": "N4",
     "examples": [
@@ -11855,7 +11855,7 @@
     "word": "片付ける",
     "reading": "かたづける",
     "meanings": [
-      "to tidy up"
+      "tidy up"
     ],
     "level": "N4",
     "examples": [
@@ -11897,7 +11897,7 @@
     "word": "捕まえる",
     "reading": "つかまえる",
     "meanings": [
-      "to seize"
+      "seize"
     ],
     "level": "N4",
     "examples": [
@@ -11918,8 +11918,8 @@
     "word": "暮れる",
     "reading": "くれる",
     "meanings": [
-      "to get dark",
-      "to come to an end"
+      "get dark",
+      "come to an end"
     ],
     "level": "N4",
     "examples": [
@@ -11941,7 +11941,7 @@
     "word": "包む",
     "reading": "つつむ",
     "meanings": [
-      "to wrap"
+      "wrap"
     ],
     "level": "N4",
     "examples": [
@@ -11962,7 +11962,7 @@
     "word": "放送",
     "reading": "ほうそうする",
     "meanings": [
-      "to broadcast"
+      "broadcast"
     ],
     "level": "N4",
     "examples": [
@@ -12004,7 +12004,7 @@
     "word": "訪ねる",
     "reading": "たずねる",
     "meanings": [
-      "to visit"
+      "visit"
     ],
     "level": "N4",
     "examples": [
@@ -12025,7 +12025,7 @@
     "word": "亡くなる",
     "reading": "なくなる",
     "meanings": [
-      "to die"
+      "die"
     ],
     "level": "N4",
     "examples": [
@@ -12214,7 +12214,7 @@
     "word": "眠る",
     "reading": "ねむる",
     "meanings": [
-      "to sleep"
+      "sleep"
     ],
     "level": "N4",
     "examples": [
@@ -12256,8 +12256,8 @@
     "word": "無くなる",
     "reading": "なくなる",
     "meanings": [
-      "to disappear",
-      "to get lost"
+      "disappear",
+      "get lost"
     ],
     "level": "N4",
     "examples": [
@@ -12342,7 +12342,7 @@
     "word": "鳴る",
     "reading": "なる",
     "meanings": [
-      "to sound"
+      "sound"
     ],
     "level": "N4",
     "examples": [
@@ -12405,7 +12405,7 @@
     "word": "戻る",
     "reading": "もどる",
     "meanings": [
-      "to turn back"
+      "turn back"
     ],
     "level": "N4",
     "examples": [
@@ -12426,7 +12426,7 @@
     "word": "役に立つ",
     "reading": "やくにたつ",
     "meanings": [
-      "to be helpful"
+      "be helpful"
     ],
     "level": "N4",
     "examples": [
@@ -12491,7 +12491,7 @@
     "word": "輸出",
     "reading": "ゆしゅつする",
     "meanings": [
-      "to export"
+      "export"
     ],
     "level": "N4",
     "examples": [
@@ -12512,7 +12512,7 @@
     "word": "輸入",
     "reading": "ゆにゅうする",
     "meanings": [
-      "to import"
+      "import"
     ],
     "level": "N4",
     "examples": [
@@ -12638,8 +12638,8 @@
     "word": "揺れる",
     "reading": "ゆれる",
     "meanings": [
-      "to shake",
-      "to sway"
+      "shake",
+      "sway"
     ],
     "level": "N4",
     "examples": [
@@ -12766,7 +12766,7 @@
     "word": "踊る",
     "reading": "おどる",
     "meanings": [
-      "to dance"
+      "dance"
     ],
     "level": "N4",
     "examples": [
@@ -12787,7 +12787,7 @@
     "word": "落す",
     "reading": "おとす",
     "meanings": [
-      "to drop"
+      "drop"
     ],
     "level": "N4",
     "examples": [
@@ -12808,7 +12808,7 @@
     "word": "落る",
     "reading": "おちる",
     "meanings": [
-      "to fall or drop"
+      "fall or drop"
     ],
     "level": "N4",
     "meanings_id": [
@@ -12882,7 +12882,7 @@
     "word": "立てる",
     "reading": "たてる",
     "meanings": [
-      "to stand something up"
+      "stand something up"
     ],
     "level": "N4",
     "examples": [
@@ -13033,7 +13033,7 @@
     "word": "冷える",
     "reading": "ひえる",
     "meanings": [
-      "to grow cold"
+      "grow cold"
     ],
     "level": "N4",
     "examples": [
@@ -13096,7 +13096,7 @@
     "word": "連れる",
     "reading": "つれる",
     "meanings": [
-      "to lead"
+      "lead"
     ],
     "level": "N4",
     "meanings_id": [

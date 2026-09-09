@@ -211,6 +211,26 @@ body {
   box-shadow: 0 0 16px rgba(255,107,157,0.2);
 }
 
+.level-btn.locked,
+.level-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+  filter: grayscale(0.6);
+  pointer-events: none;
+}
+
+.level-lang-hint {
+  margin-top: 0.65rem;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+  opacity: 0.9;
+}
+
+.level-lang-hint.hidden {
+  display: none;
+}
+
 /* Mode buttons */
 .mode-grid {
   display: flex;

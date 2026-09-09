@@ -143,17 +143,60 @@ function applyI18n() {
     const text = t(key);
     if (text) el.textContent = text;
   });
-  updateStartBtnText();
   document.querySelectorAll('.lang-btn').forEach((btn) => {
     btn.classList.toggle('active', btn.dataset.lang === state.lang);
   });
   document.documentElement.lang = state.lang === 'id' ? 'id' : 'en';
+  updateLevelAvailability();
+  updateStartBtnText();
+}
+
+/** N3+ only fully supported in English (ID translations incomplete) */
+function updateLevelAvailability() {
+  const advanced = ['n3', 'n2', 'n1'];
+  const idMode = state.lang === 'id';
+  document.querySelectorAll('.level-btn').forEach((btn) => {
+    const level = btn.dataset.level;
+    const locked = idMode && advanced.includes(level);
+    btn.disabled = locked;
+    btn.classList.toggle('locked', locked);
+    btn.title = locked
+      ? (state.lang === 'id'
+          ? 'Level ini hanya tersedia dalam bahasa Inggris (arti ID belum lengkap)'
+          : 'This level is only available in English')
+      : '';
+    if (locked && btn.classList.contains('active')) {
+      btn.classList.remove('active');
+      if (state.level === level) state.level = null;
+    }
+  });
+  // hint under level panel
+  let hint = document.getElementById('level-lang-hint');
+  if (!hint) {
+    const grid = document.getElementById('level-select');
+    if (grid && grid.parentElement) {
+      hint = document.createElement('p');
+      hint.id = 'level-lang-hint';
+      hint.className = 'level-lang-hint';
+      grid.parentElement.appendChild(hint);
+    }
+  }
+  if (hint) {
+    if (idMode) {
+      hint.textContent = 'N3–N1 hanya tersedia saat bahasa EN (arti Indonesia belum lengkap).';
+      hint.classList.remove('hidden');
+    } else {
+      hint.textContent = '';
+      hint.classList.add('hidden');
+    }
+  }
 }
 
 function updateStartBtnText() {
   const startBtn = document.querySelector('#btn-start');
   if (!startBtn) return;
-  if (state.level && state.mode) {
+  const levelOk = state.level && !(state.lang === 'id' && ['n3', 'n2', 'n1'].includes(state.level));
+  if (levelOk && state.mode) {
     startBtn.disabled = false;
     startBtn.textContent = t('btn_start');
   } else {
@@ -216,6 +259,7 @@ function bindHome() {
 
   levelBtns.forEach((btn) => {
     btn.addEventListener('click', () => {
+      if (btn.disabled) return;
       levelBtns.forEach((b) => b.classList.remove('active'));
       btn.classList.add('active');
       state.level = btn.dataset.level;
@@ -250,6 +294,12 @@ function getMeanings(word) {
 }
 
 async function startQuiz() {
+  if (state.lang === 'id' && ['n3', 'n2', 'n1'].includes(state.level)) {
+    alert(state.lang === 'id'
+      ? 'Level N3–N1 hanya tersedia dalam bahasa Inggris. Silakan pilih EN atau level N5/N4.'
+      : 'N3–N1 are only available in English.');
+    return;
+  }
   const startBtn = $('#btn-start');
   startBtn.disabled = true;
   startBtn.textContent = t('loading');

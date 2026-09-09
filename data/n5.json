@@ -59,7 +59,8 @@
       }
     ],
     "meanings_id": [
-      "Ada"
+      "Di sana",
+      "sebelah sana"
     ]
   },
   {
@@ -122,7 +123,7 @@
       }
     ],
     "meanings_id": [
-      "Siapa itu yang di sana"
+      "Itu"
     ]
   },
   {
@@ -150,8 +151,8 @@
     "word": "あびる",
     "reading": "",
     "meanings": [
-      "to bathe",
-      "to shower"
+      "bathe",
+      "shower"
     ],
     "level": "N5",
     "meanings_id": [
@@ -177,15 +178,15 @@
       }
     ],
     "meanings_id": [
-      "- Tidak juga"
+      "Tidak Terlalu"
     ]
   },
   {
     "word": "ある",
-    "reading": "",
+    "reading": "ある",
     "meanings": [
-      "to be",
-      "to have (used for inanimate objects)"
+      "be",
+      "have (used for inanimate objects)"
     ],
     "level": "N5",
     "examples": [
@@ -199,8 +200,8 @@
       }
     ],
     "meanings_id": [
-      "untuk",
-      "memiliki (digunakan untuk benda mati)"
+      "ada",
+      "punya / memiliki (digunakan untuk benda mati)"
     ]
   },
   {
@@ -221,7 +222,7 @@
       }
     ],
     "meanings_id": [
-      "bahwa"
+      "Itu"
     ]
   },
   {
@@ -274,7 +275,7 @@
       }
     ],
     "meanings_id": [
-      "Kayaknya"
+      "Bagaimana"
     ]
   },
   {
@@ -296,7 +297,7 @@
       }
     ],
     "meanings_id": [
-      "Hitunglah",
+      "Berapa",
       "berapa umurnya?"
     ]
   },
@@ -318,7 +319,7 @@
       }
     ],
     "meanings_id": [
-      "Itu harganya berapa?"
+      "Berapa harganya?"
     ]
   },
   {
@@ -404,7 +405,8 @@
       }
     ],
     "meanings_id": [
-      "selalu"
+      "selalu",
+      "Kapanpun"
     ]
   },
   {
@@ -425,7 +427,8 @@
       }
     ],
     "meanings_id": [
-      "berbagai"
+      "berbagai",
+      "macam macam"
     ]
   },
   {
@@ -488,7 +491,8 @@
       }
     ],
     "meanings_id": [
-      "sedap"
+      "sedap",
+      "Enak"
     ]
   },
   {
@@ -509,7 +513,7 @@
       }
     ],
     "meanings_id": [
-      "lambung"
+      "Perut"
     ]
   },
   {
@@ -531,15 +535,14 @@
       }
     ],
     "meanings_id": [
-      "nenek",
-      "perempuan warga negara senior"
+      "nenek"
     ]
   },
   {
     "word": "おまわりさん",
     "reading": "",
     "meanings": [
-      "friendly term for policeman"
+      "policeman"
     ],
     "level": "N5",
     "examples": [
@@ -553,7 +556,7 @@
       }
     ],
     "meanings_id": [
-      "istilah ramah untuk polisi"
+      "polisi"
     ]
   },
   {
@@ -596,7 +599,7 @@
       }
     ],
     "meanings_id": [
-      "permen",
+      "Manisan",
       "Permen"
     ]
   },
@@ -704,7 +707,7 @@
       }
     ],
     "meanings_id": [
-      "kamar mandi"
+      "Toilet"
     ]
   },
   {
@@ -727,14 +730,15 @@
     ],
     "meanings_id": [
       "Minuman beralkohol",
-      "anggur beras"
+      "anggur beras",
+      "Sake"
     ]
   },
   {
     "word": "お茶",
     "reading": "おちゃ",
     "meanings": [
-      "green tea"
+      "tea"
     ],
     "level": "N5",
     "examples": [
@@ -748,7 +752,7 @@
       }
     ],
     "meanings_id": [
-      "teh hijau"
+      "teh"
     ]
   },
   {
@@ -797,7 +801,7 @@
     "word": "お弁当",
     "reading": "おべんとう",
     "meanings": [
-      "boxed lunch"
+      "Launch box"
     ],
     "level": "N5",
     "examples": [
@@ -811,7 +815,7 @@
       }
     ],
     "meanings_id": [
-      "makan siang dalam kotak"
+      "Kotak makan siang"
     ]
   },
   {
@@ -839,7 +843,9 @@
     "word": "かかる",
     "reading": "",
     "meanings": [
-      "to take time or money"
+      "take time or money",
+      "be a concern or worry",
+      "lean against"
     ],
     "level": "N5",
     "examples": [
@@ -850,10 +856,16 @@
       {
         "ja": "壁にもたれかかるな。",
         "en": "Don't lean against the wall."
+      },
+      {
+        "ja": "この修理にはお金がかかります。",
+        "en": "This repair costs money."
       }
     ],
     "meanings_id": [
-      "meluangkan waktu atau uang"
+      "meluangkan waktu atau uang",
+      "mengkhawatirkan atau menjadi perhatian",
+      "bersandar pada"
     ]
   },
   {
@@ -874,14 +886,16 @@
       }
     ],
     "meanings_id": [
-      "tombol"
+      "Kunci"
     ]
   },
   {
     "word": "かける",
-    "reading": "",
+    "reading": "かける",
     "meanings": [
-      "to call by phone"
+      "call by phone",
+      "go out",
+      "talk to someone"
     ],
     "level": "N5",
     "examples": [
@@ -895,7 +909,9 @@
       }
     ],
     "meanings_id": [
-      "menelepon melalui telepon"
+      "menelepon",
+      "keluar",
+      "berbicara kepada seseorang"
     ]
   },
   {
@@ -939,7 +955,7 @@
     ],
     "meanings_id": [
       "kantong",
-      "Bakul"
+      "keranjang"
     ]
   },
   {
@@ -1094,9 +1110,10 @@
   },
   {
     "word": "ください",
-    "reading": "",
+    "reading": "ください",
     "meanings": [
-      "please"
+      "please",
+      "please give me"
     ],
     "level": "N5",
     "examples": [
@@ -1110,7 +1127,8 @@
       }
     ],
     "meanings_id": [
-      "silakan"
+      "tolong",
+      "tolong berikan"
     ]
   },
   {
@@ -1222,9 +1240,10 @@
   },
   {
     "word": "こちら",
-    "reading": "",
+    "reading": "こちら",
     "meanings": [
-      "this person or way"
+      "this person or this one",
+      "this way or direction"
     ],
     "level": "N5",
     "examples": [
@@ -1238,14 +1257,17 @@
       }
     ],
     "meanings_id": [
-      "orang atau cara ini"
+      "orang ini atau yang ini",
+      "arah atau jalan ini"
     ]
   },
   {
     "word": "こっち",
-    "reading": "",
+    "reading": "こっち",
     "meanings": [
-      "this person or way"
+      "this way",
+      "here",
+      "this person or this one"
     ],
     "level": "N5",
     "examples": [
@@ -1259,7 +1281,9 @@
       }
     ],
     "meanings_id": [
-      "orang atau cara ini"
+      "ke sini",
+      "di sini",
+      "orang ini atau yang ini"
     ]
   },
   {
@@ -1308,7 +1332,7 @@
     "word": "コピーする",
     "reading": "",
     "meanings": [
-      "to copy"
+      "copy"
     ],
     "level": "N5",
     "examples": [
@@ -1364,14 +1388,17 @@
       }
     ],
     "meanings_id": [
-      "demikian,"
+      "demikian,",
+      "begini"
     ]
   },
   {
     "word": "さあ",
-    "reading": "",
+    "reading": "さあ",
     "meanings": [
-      "well…"
+      "well...",
+      "come on",
+      "let's..."
     ],
     "level": "N5",
     "examples": [
@@ -1385,7 +1412,9 @@
       }
     ],
     "meanings_id": [
-      "Sebenarnya"
+      "nah...",
+      "ayo",
+      "mari..."
     ]
   },
   {
@@ -1396,7 +1425,8 @@
     ],
     "level": "N5",
     "meanings_id": [
-      "tahun setelah berikutnya"
+      "tahun setelah tahun depan",
+      "dua tahun lagi"
     ]
   },
   {
@@ -1417,7 +1447,7 @@
       }
     ],
     "meanings_id": [
-      "namun&#x0D;"
+      "namun"
     ]
   },
   {
@@ -1428,7 +1458,7 @@
     ],
     "level": "N5",
     "meanings_id": [
-      "Kalau begitu, sampai jumpa"
+      "Kalau begitu…"
     ]
   },
   {
@@ -1470,7 +1500,8 @@
       }
     ],
     "meanings_id": [
-      "pancuran"
+      "shower",
+      "mandi"
     ]
   },
   {
@@ -1565,7 +1596,7 @@
       }
     ],
     "meanings_id": [
-      "Sendok Lab"
+      "Sendok"
     ]
   },
   {
@@ -1635,7 +1666,7 @@
     "word": "する",
     "reading": "",
     "meanings": [
-      "to do"
+      "do"
     ],
     "level": "N5",
     "examples": [
@@ -1649,7 +1680,7 @@
       }
     ],
     "meanings_id": [
-      "untuk melakukan"
+      "melakukan"
     ]
   },
   {
@@ -1671,8 +1702,7 @@
       }
     ],
     "meanings_id": [
-      "sweter",
-      "Pelompat!"
+      "sweter"
     ]
   },
   {
@@ -1809,7 +1839,7 @@
       }
     ],
     "meanings_id": [
-      "bahwa"
+      "itu"
     ]
   },
   {
@@ -1853,7 +1883,7 @@
       }
     ],
     "meanings_id": [
-      "bahwa"
+      "itu"
     ]
   },
   {
@@ -1895,7 +1925,7 @@
       }
     ],
     "meanings_id": [
-      "dalam situasi itu"
+      "kalau begitu..."
     ]
   },
   {
@@ -1962,11 +1992,11 @@
     ]
   },
   {
-    "word": "たて",
-    "reading": "",
+    "word": "たてる",
+    "reading": "たてる",
     "meanings": [
-      "length",
-      "height"
+      "stand something up",
+      "raise"
     ],
     "level": "N5",
     "examples": [
@@ -1980,8 +2010,8 @@
       }
     ],
     "meanings_id": [
-      "panjang",
-      "tinggi"
+      "mendirikan",
+      "mengangkat"
     ]
   },
   {
@@ -2003,7 +2033,6 @@
       }
     ],
     "meanings_id": [
-      "Tembakau",
       "rokok"
     ]
   },
@@ -2104,9 +2133,11 @@
   },
   {
     "word": "つける",
-    "reading": "",
+    "reading": "つける",
     "meanings": [
-      "to turn on"
+      "turn on",
+      "act cool",
+      "keep a diary"
     ],
     "level": "N5",
     "examples": [
@@ -2120,7 +2151,9 @@
       }
     ],
     "meanings_id": [
-      "menyalakan"
+      "menyalakan",
+      "bergaya sok keren",
+      "menulis buku harian"
     ]
   },
   {
@@ -2211,7 +2244,7 @@
     "word": "できる",
     "reading": "",
     "meanings": [
-      "to be able to"
+      "able to"
     ],
     "level": "N5",
     "examples": [
@@ -2337,7 +2370,7 @@
     "word": "ドア",
     "reading": "",
     "meanings": [
-      "Western style door"
+      "door"
     ],
     "level": "N5",
     "examples": [
@@ -2351,7 +2384,7 @@
       }
     ],
     "meanings_id": [
-      "pintu gaya barat"
+      "pintu"
     ]
   },
   {
@@ -2394,15 +2427,15 @@
       }
     ],
     "meanings_id": [
-      "Kayaknya",
-      "dengan cara apa"
+      "Bagaimana"
     ]
   },
   {
     "word": "どうして",
     "reading": "",
     "meanings": [
-      "for what reason"
+      "for what reason",
+      "why"
     ],
     "level": "N5",
     "examples": [
@@ -2416,7 +2449,8 @@
       }
     ],
     "meanings_id": [
-      "Untuk alasan apa?"
+      "Untuk alasan apa?",
+      "kenapa"
     ]
   },
   {
@@ -2458,7 +2492,7 @@
       }
     ],
     "meanings_id": [
-      "di mana lokasi Anda"
+      "terima kasih"
     ]
   },
   {
@@ -2486,7 +2520,8 @@
     "word": "どちら",
     "reading": "",
     "meanings": [
-      "which of two"
+      "which one",
+      "siapa"
     ],
     "level": "N5",
     "examples": [
@@ -2500,7 +2535,8 @@
       }
     ],
     "meanings_id": [
-      "yang mana dari dua"
+      "yang mana",
+      "siapa"
     ]
   },
   {
@@ -2514,14 +2550,10 @@
       {
         "ja": "どっち取る？",
         "en": "Which one do you take?"
-      },
-      {
-        "ja": "めんどっちい。",
-        "en": "What a hassle!"
       }
     ],
     "meanings_id": [
-      "yang:"
+      "yang mana"
     ]
   },
   {
@@ -2584,7 +2616,7 @@
       }
     ],
     "meanings_id": [
-      "yang:"
+      "yang mana"
     ]
   },
   {
@@ -2602,7 +2634,7 @@
     "word": "どれ",
     "reading": "",
     "meanings": [
-      "which (of three or more)"
+      "which"
     ],
     "level": "N5",
     "examples": [
@@ -2616,7 +2648,7 @@
       }
     ],
     "meanings_id": [
-      "yang (dari tiga atau lebih)"
+      "yang"
     ]
   },
   {
@@ -2686,7 +2718,7 @@
     "word": "なる",
     "reading": "",
     "meanings": [
-      "to become"
+      "become"
     ],
     "level": "N5",
     "examples": [
@@ -2700,7 +2732,7 @@
       }
     ],
     "meanings_id": [
-      "Untuk menjadi"
+      "menjadi"
     ]
   },
   {
@@ -2788,7 +2820,7 @@
       }
     ],
     "meanings_id": [
-      "pihak"
+      "pesta"
     ]
   },
   {
@@ -2816,8 +2848,8 @@
     "word": "はく",
     "reading": "",
     "meanings": [
-      "to wear",
-      "to put on trousers"
+      "wear",
+      "put on"
     ],
     "level": "N5",
     "examples": [
@@ -2832,7 +2864,7 @@
     ],
     "meanings_id": [
       "memakai",
-      "mengenakan celana panjang"
+      "mengenakan"
     ]
   },
   {
@@ -3149,7 +3181,7 @@
     ],
     "meanings_id": [
       "lain-lain",
-      "sisanya INDENT"
+      "yang lain"
     ]
   },
   {
@@ -3259,23 +3291,23 @@
   },
   {
     "word": "まずい",
-    "reading": "",
+    "reading": "まずい",
     "meanings": [
-      "unpleasant"
+      "unpleasant",
+      "bad",
+      "not good"
     ],
     "level": "N5",
     "examples": [
       {
         "ja": "まずいぞ、トム。",
         "en": "That's no good, Tom."
-      },
-      {
-        "ja": "私はひざまずいた。",
-        "en": "I kneeled down."
       }
     ],
     "meanings_id": [
-      "tidak menyenangkan"
+      "tidak enak",
+      "buruk",
+      "tidak baik"
     ]
   },
   {
@@ -3343,13 +3375,12 @@
       }
     ],
     "meanings_id": [
-      "Lihat lurus ke depan",
-      "memimpin"
+      "Langsung"
     ]
   },
   {
     "word": "マッチ",
-    "reading": "",
+    "reading": "マッチ",
     "meanings": [
       "match"
     ],
@@ -3365,7 +3396,7 @@
       }
     ],
     "meanings_id": [
-      "cocok"
+      "korek api"
     ]
   },
   {
@@ -3428,7 +3459,7 @@
       }
     ],
     "meanings_id": [
-      "Bersiaplah"
+      "Sudah"
     ]
   },
   {
@@ -3470,14 +3501,14 @@
       }
     ],
     "meanings_id": [
-      "banyak"
+      "lagi"
     ]
   },
   {
     "word": "やる",
     "reading": "",
     "meanings": [
-      "to do"
+      "do"
     ],
     "level": "N5",
     "examples": [
@@ -3491,7 +3522,7 @@
       }
     ],
     "meanings_id": [
-      "untuk melakukan"
+      "melakukan"
     ]
   },
   {
@@ -3512,7 +3543,7 @@
       }
     ],
     "meanings_id": [
-      "Secara perlahan <ex id=\"_1\"/>"
+      "Secara perlahan"
     ]
   },
   {
@@ -3535,18 +3566,18 @@
     ],
     "meanings_id": [
       "Sering Kali",
-      "juga"
+      "baik"
     ]
   },
   {
     "word": "より、ほう",
-    "reading": "",
+    "reading": "より、ほう",
     "meanings": [
-      "Used for comparison."
+      "used for comparison"
     ],
     "level": "N5",
     "meanings_id": [
-      "Digunakan untuk perbandingan"
+      "digunakan untuk perbandingan"
     ]
   },
   {
@@ -3797,7 +3828,7 @@
     "word": "違う",
     "reading": "ちがう",
     "meanings": [
-      "to differ"
+      "differ"
     ],
     "level": "N5",
     "examples": [
@@ -4009,7 +4040,7 @@
     "word": "引く",
     "reading": "ひく",
     "meanings": [
-      "to pull"
+      "pull"
     ],
     "level": "N5",
     "examples": [
@@ -4051,7 +4082,7 @@
     "word": "飲む",
     "reading": "のむ",
     "meanings": [
-      "to drink"
+      "drink"
     ],
     "level": "N5",
     "examples": [
@@ -4156,7 +4187,7 @@
     "word": "泳ぐ",
     "reading": "およぐ",
     "meanings": [
-      "to swim"
+      "swim"
     ],
     "level": "N5",
     "examples": [
@@ -4324,8 +4355,8 @@
     "word": "押す",
     "reading": "おす",
     "meanings": [
-      "to push",
-      "to stamp something"
+      "push",
+      "stamp something"
     ],
     "level": "N5",
     "examples": [
@@ -4683,7 +4714,7 @@
     "word": "歌う",
     "reading": "うたう",
     "meanings": [
-      "to sing"
+      "sing"
     ],
     "level": "N5",
     "examples": [
@@ -4788,7 +4819,7 @@
     "word": "会う",
     "reading": "あう",
     "meanings": [
-      "to meet"
+      "meet"
     ],
     "level": "N5",
     "examples": [
@@ -4914,8 +4945,8 @@
     "word": "開く",
     "reading": "あく",
     "meanings": [
-      "to open",
-      "to become open"
+      "open",
+      "become open"
     ],
     "level": "N5",
     "examples": [
@@ -4937,7 +4968,7 @@
     "word": "開ける",
     "reading": "あける",
     "meanings": [
-      "to open"
+      "open"
     ],
     "level": "N5",
     "examples": [
@@ -5042,7 +5073,7 @@
     "word": "覚える",
     "reading": "おぼえる",
     "meanings": [
-      "to remember"
+      "remember"
     ],
     "level": "N5",
     "examples": [
@@ -5286,7 +5317,7 @@
     "word": "帰る",
     "reading": "かえる",
     "meanings": [
-      "to go back"
+      "go back"
     ],
     "level": "N5",
     "examples": [
@@ -5307,7 +5338,7 @@
     "word": "起きる",
     "reading": "おきる",
     "meanings": [
-      "to get up"
+      "get up"
     ],
     "level": "N5",
     "examples": [
@@ -5372,7 +5403,7 @@
     "word": "休む",
     "reading": "やすむ",
     "meanings": [
-      "to rest"
+      "rest"
     ],
     "level": "N5",
     "examples": [
@@ -5393,8 +5424,8 @@
     "word": "吸う",
     "reading": "すう",
     "meanings": [
-      "to smoke",
-      "to suck"
+      "smoke",
+      "suck"
     ],
     "level": "N5",
     "examples": [
@@ -5479,8 +5510,8 @@
     "word": "居る",
     "reading": "いる",
     "meanings": [
-      "to be",
-      "to have (used for people and animals)"
+      "be",
+      "have (used for people and animals)"
     ],
     "level": "N5",
     "examples": [
@@ -5544,8 +5575,8 @@
     "word": "教える",
     "reading": "おしえる",
     "meanings": [
-      "to teach",
-      "to tell"
+      "teach",
+      "tell"
     ],
     "level": "N5",
     "examples": [
@@ -5630,8 +5661,8 @@
     "word": "曲る",
     "reading": "まがる",
     "meanings": [
-      "to turn",
-      "to bend"
+      "turn",
+      "bend"
     ],
     "level": "N5",
     "meanings_id": [
@@ -5643,7 +5674,7 @@
     "word": "勤める",
     "reading": "つとめる",
     "meanings": [
-      "to work for someone"
+      "work for someone"
     ],
     "level": "N5",
     "examples": [
@@ -6099,7 +6130,7 @@
     "word": "見せる",
     "reading": "みせる",
     "meanings": [
-      "to show"
+      "show"
     ],
     "level": "N5",
     "examples": [
@@ -6120,8 +6151,8 @@
     "word": "見る 観る",
     "reading": "みる",
     "meanings": [
-      "to see",
-      "to watch"
+      "see",
+      "watch"
     ],
     "level": "N5",
     "meanings_id": [
@@ -6177,7 +6208,7 @@
     "word": "言う",
     "reading": "いう",
     "meanings": [
-      "to say"
+      "say"
     ],
     "level": "N5",
     "examples": [
@@ -6242,8 +6273,8 @@
     "word": "呼ぶ",
     "reading": "よぶ",
     "meanings": [
-      "to call out",
-      "to invite"
+      "call out",
+      "invite"
     ],
     "level": "N5",
     "examples": [
@@ -6655,7 +6686,7 @@
     "word": "行く",
     "reading": "いく",
     "meanings": [
-      "to go"
+      "go"
     ],
     "level": "N5",
     "examples": [
@@ -6676,8 +6707,8 @@
     "word": "降りる",
     "reading": "おりる",
     "meanings": [
-      "to get off",
-      "to descend"
+      "get off",
+      "descend"
     ],
     "level": "N5",
     "examples": [
@@ -6699,7 +6730,7 @@
     "word": "降る",
     "reading": "ふる",
     "meanings": [
-      "to fall",
+      "fall",
       "e.g. rain or snow"
     ],
     "level": "N5",
@@ -6955,7 +6986,7 @@
     "word": "困る",
     "reading": "こまる",
     "meanings": [
-      "to be worried"
+      "be worried"
     ],
     "level": "N5",
     "examples": [
@@ -6997,8 +7028,8 @@
     "word": "差す",
     "reading": "さす",
     "meanings": [
-      "to stretch out hands",
-      "to raise an umbrella"
+      "stretch out hands",
+      "raise an umbrella"
     ],
     "level": "N5",
     "examples": [
@@ -7041,7 +7072,7 @@
     "word": "座る",
     "reading": "すわる",
     "meanings": [
-      "to sit"
+      "sit"
     ],
     "level": "N5",
     "examples": [
@@ -7104,7 +7135,7 @@
     "word": "咲く",
     "reading": "さく",
     "meanings": [
-      "to bloom"
+      "bloom"
     ],
     "level": "N5",
     "examples": [
@@ -7125,7 +7156,7 @@
     "word": "作る",
     "reading": "つくる",
     "meanings": [
-      "to make"
+      "make"
     ],
     "level": "N5",
     "examples": [
@@ -7211,7 +7242,7 @@
     "word": "撮る",
     "reading": "とる",
     "meanings": [
-      "to take a photo or record a film"
+      "take a photo or record a film"
     ],
     "level": "N5",
     "examples": [
@@ -7360,7 +7391,7 @@
     "word": "散歩",
     "reading": "さんぽする",
     "meanings": [
-      "to stroll"
+      "stroll"
     ],
     "level": "N5",
     "examples": [
@@ -7402,7 +7433,7 @@
     "word": "使う",
     "reading": "つかう",
     "meanings": [
-      "to use"
+      "use"
     ],
     "level": "N5",
     "examples": [
@@ -7488,7 +7519,7 @@
     "word": "始まる",
     "reading": "はじまる",
     "meanings": [
-      "to begin"
+      "begin"
     ],
     "level": "N5",
     "examples": [
@@ -7551,7 +7582,7 @@
     "word": "止まる",
     "reading": "とまる",
     "meanings": [
-      "to come to a halt"
+      "come to a halt"
     ],
     "level": "N5",
     "examples": [
@@ -7572,7 +7603,7 @@
     "word": "死ぬ",
     "reading": "しぬ",
     "meanings": [
-      "to die"
+      "die"
     ],
     "level": "N5",
     "examples": [
@@ -7679,7 +7710,7 @@
     "word": "持つ",
     "reading": "もつ",
     "meanings": [
-      "to hold"
+      "hold"
     ],
     "level": "N5",
     "examples": [
@@ -8017,7 +8048,7 @@
     "word": "借りる",
     "reading": "かりる",
     "meanings": [
-      "to borrow"
+      "borrow"
     ],
     "level": "N5",
     "examples": [
@@ -8080,7 +8111,7 @@
     "word": "取る",
     "reading": "とる",
     "meanings": [
-      "to take something"
+      "take something"
     ],
     "level": "N5",
     "examples": [
@@ -8187,7 +8218,7 @@
     "word": "終る",
     "reading": "おわる",
     "meanings": [
-      "to finish"
+      "finish"
     ],
     "level": "N5",
     "examples": [
@@ -8204,7 +8235,7 @@
     "word": "習う",
     "reading": "ならう",
     "meanings": [
-      "to learn"
+      "learn"
     ],
     "level": "N5",
     "examples": [
@@ -8225,7 +8256,7 @@
     "word": "住む",
     "reading": "すむ",
     "meanings": [
-      "to live in"
+      "live in"
     ],
     "level": "N5",
     "examples": [
@@ -8332,7 +8363,7 @@
     "word": "出かける",
     "reading": "でかける",
     "meanings": [
-      "to go out"
+      "go out"
     ],
     "level": "N5",
     "examples": [
@@ -8353,7 +8384,7 @@
     "word": "出す",
     "reading": "だす",
     "meanings": [
-      "to put out"
+      "put out"
     ],
     "level": "N5",
     "examples": [
@@ -8374,8 +8405,8 @@
     "word": "出る",
     "reading": "でる",
     "meanings": [
-      "to appear",
-      "to leave"
+      "appear",
+      "leave"
     ],
     "level": "N5",
     "examples": [
@@ -8513,7 +8544,7 @@
     "word": "書く",
     "reading": "かく",
     "meanings": [
-      "to write"
+      "write"
     ],
     "level": "N5",
     "examples": [
@@ -8660,7 +8691,7 @@
     "word": "消える",
     "reading": "きえる",
     "meanings": [
-      "to disappear"
+      "disappear"
     ],
     "level": "N5",
     "examples": [
@@ -8681,8 +8712,8 @@
     "word": "消す",
     "reading": "けす",
     "meanings": [
-      "to erase",
-      "to turn off power"
+      "erase",
+      "turn off power"
     ],
     "level": "N5",
     "examples": [
@@ -8725,7 +8756,7 @@
     "word": "上げる",
     "reading": "あげる",
     "meanings": [
-      "to give"
+      "give"
     ],
     "level": "N5",
     "examples": [
@@ -8811,8 +8842,8 @@
     "word": "乗る",
     "reading": "のる",
     "meanings": [
-      "to get on",
-      "to ride"
+      "get on",
+      "ride"
     ],
     "level": "N5",
     "examples": [
@@ -8855,7 +8886,7 @@
     "word": "食べる",
     "reading": "たべる",
     "meanings": [
-      "to eat"
+      "eat"
     ],
     "level": "N5",
     "examples": [
@@ -8918,8 +8949,8 @@
     "word": "寝る",
     "reading": "ねる",
     "meanings": [
-      "to go to bed",
-      "to sleep"
+      "go to bed",
+      "sleep"
     ],
     "level": "N5",
     "examples": [
@@ -9046,7 +9077,7 @@
     "word": "吹く",
     "reading": "ふく",
     "meanings": [
-      "to blow"
+      "blow"
     ],
     "level": "N5",
     "examples": [
@@ -9130,7 +9161,7 @@
     "word": "晴れる",
     "reading": "はれる",
     "meanings": [
-      "to be sunny"
+      "be sunny"
     ],
     "level": "N5",
     "examples": [
@@ -9151,7 +9182,7 @@
     "word": "生まれる",
     "reading": "うまれる",
     "meanings": [
-      "to be born"
+      "be born"
     ],
     "level": "N5",
     "examples": [
@@ -9340,7 +9371,7 @@
     "word": "切る",
     "reading": "きる",
     "meanings": [
-      "to cut"
+      "cut"
     ],
     "level": "N5",
     "examples": [
@@ -9544,7 +9575,7 @@
     "word": "洗う",
     "reading": "あらう",
     "meanings": [
-      "to wash"
+      "wash"
     ],
     "level": "N5",
     "examples": [
@@ -9628,8 +9659,8 @@
     "word": "掃除",
     "reading": "そうじする",
     "meanings": [
-      "to clean",
-      "to sweep"
+      "clean",
+      "sweep"
     ],
     "level": "N5",
     "examples": [
@@ -9693,7 +9724,7 @@
     "word": "走る",
     "reading": "はしる",
     "meanings": [
-      "to run"
+      "run"
     ],
     "level": "N5",
     "examples": [
@@ -9842,7 +9873,7 @@
     "word": "待つ",
     "reading": "まつ",
     "meanings": [
-      "to wait"
+      "wait"
     ],
     "level": "N5",
     "examples": [
@@ -9863,7 +9894,7 @@
     "word": "貸す",
     "reading": "かす",
     "meanings": [
-      "to lend"
+      "lend"
     ],
     "level": "N5",
     "examples": [
@@ -9968,7 +9999,7 @@
     "word": "大好き",
     "reading": "だいすき",
     "meanings": [
-      "to be very likeable"
+      "be very likeable"
     ],
     "level": "N5",
     "examples": [
@@ -10094,7 +10125,7 @@
     "word": "脱ぐ",
     "reading": "ぬぐ",
     "meanings": [
-      "to take off clothes"
+      "take off clothes"
     ],
     "level": "N5",
     "examples": [
@@ -10178,7 +10209,7 @@
     "word": "弾く",
     "reading": "ひく",
     "meanings": [
-      "to play an instrument with strings",
+      "play an instrument with strings",
       "including piano"
     ],
     "level": "N5",
@@ -10264,7 +10295,7 @@
     "word": "知る",
     "reading": "しる",
     "meanings": [
-      "to know"
+      "know"
     ],
     "level": "N5",
     "examples": [
@@ -10348,7 +10379,7 @@
     "word": "置く",
     "reading": "おく",
     "meanings": [
-      "to put"
+      "put"
     ],
     "level": "N5",
     "examples": [
@@ -10413,7 +10444,7 @@
     "word": "着く",
     "reading": "つく",
     "meanings": [
-      "to arrive at"
+      "arrive at"
     ],
     "level": "N5",
     "examples": [
@@ -10434,7 +10465,7 @@
     "word": "着る",
     "reading": "きる",
     "meanings": [
-      "to put on from the shoulders down"
+      "put on from the shoulders down"
     ],
     "level": "N5",
     "examples": [
@@ -10703,7 +10734,7 @@
     "word": "締める",
     "reading": "しめる",
     "meanings": [
-      "to tie"
+      "tie"
     ],
     "level": "N5",
     "examples": [
@@ -10766,7 +10797,7 @@
     "word": "貼る",
     "reading": "はる",
     "meanings": [
-      "to stick"
+      "stick"
     ],
     "level": "N5",
     "examples": [
@@ -10852,7 +10883,7 @@
     "word": "渡す",
     "reading": "わたす",
     "meanings": [
-      "to hand over"
+      "hand over"
     ],
     "level": "N5",
     "examples": [
@@ -10873,7 +10904,7 @@
     "word": "渡る",
     "reading": "わたる",
     "meanings": [
-      "to go across"
+      "go across"
     ],
     "level": "N5",
     "examples": [
@@ -10894,7 +10925,7 @@
     "word": "登る",
     "reading": "のぼる",
     "meanings": [
-      "to climb"
+      "climb"
     ],
     "level": "N5",
     "examples": [
@@ -10978,7 +11009,7 @@
     "word": "答える",
     "reading": "こたえる",
     "meanings": [
-      "to answer"
+      "answer"
     ],
     "level": "N5",
     "examples": [
@@ -11020,7 +11051,7 @@
     "word": "働く",
     "reading": "はたらく",
     "meanings": [
-      "to work"
+      "work"
     ],
     "level": "N5",
     "examples": [
@@ -11104,7 +11135,7 @@
     "word": "読む",
     "reading": "よむ",
     "meanings": [
-      "to read"
+      "read"
     ],
     "level": "N5",
     "examples": [
@@ -11167,8 +11198,8 @@
     "word": "曇る",
     "reading": "くもる",
     "meanings": [
-      "to become cloudy",
-      "to become dim"
+      "become cloudy",
+      "become dim"
     ],
     "level": "N5",
     "examples": [
@@ -11425,8 +11456,8 @@
     "word": "入る",
     "reading": "はいる",
     "meanings": [
-      "to enter",
-      "to contain"
+      "enter",
+      "contain"
     ],
     "level": "N5",
     "examples": [
@@ -11448,7 +11479,7 @@
     "word": "入れる",
     "reading": "いれる",
     "meanings": [
-      "to put in"
+      "put in"
     ],
     "level": "N5",
     "examples": [
@@ -11618,7 +11649,7 @@
     "word": "買う",
     "reading": "かう",
     "meanings": [
-      "to buy"
+      "buy"
     ],
     "level": "N5",
     "examples": [
@@ -11639,7 +11670,7 @@
     "word": "売る",
     "reading": "うる",
     "meanings": [
-      "to sell"
+      "sell"
     ],
     "level": "N5",
     "examples": [
@@ -11980,7 +12011,7 @@
     "word": "疲れる",
     "reading": "つかれる",
     "meanings": [
-      "to get tired"
+      "get tired"
     ],
     "level": "N5",
     "examples": [
@@ -12001,8 +12032,8 @@
     "word": "飛ぶ",
     "reading": "とぶ",
     "meanings": [
-      "to fly",
-      "to hop"
+      "fly",
+      "hop"
     ],
     "level": "N5",
     "examples": [
@@ -12255,7 +12286,7 @@
     "word": "分かる",
     "reading": "わかる",
     "meanings": [
-      "to be understood"
+      "be understood"
     ],
     "level": "N5",
     "examples": [
@@ -12299,9 +12330,9 @@
     "word": "聞く",
     "reading": "きく",
     "meanings": [
-      "to hear",
-      "to listen to",
-      "to ask"
+      "hear",
+      "listen to",
+      "ask"
     ],
     "level": "N5",
     "examples": [
@@ -12324,8 +12355,8 @@
     "word": "並ぶ",
     "reading": "ならぶ",
     "meanings": [
-      "to line up",
-      "to stand in a line"
+      "line up",
+      "stand in a line"
     ],
     "level": "N5",
     "examples": [
@@ -12347,8 +12378,8 @@
     "word": "並べる",
     "reading": "ならべる",
     "meanings": [
-      "to line up",
-      "to set up"
+      "line up",
+      "set up"
     ],
     "level": "N5",
     "examples": [
@@ -12370,8 +12401,8 @@
     "word": "閉まる",
     "reading": "しまる",
     "meanings": [
-      "to close",
-      "to be closed"
+      "close",
+      "be closed"
     ],
     "level": "N5",
     "examples": [
@@ -12393,7 +12424,7 @@
     "word": "閉める",
     "reading": "しめる",
     "meanings": [
-      "to close something"
+      "close something"
     ],
     "level": "N5",
     "examples": [
@@ -12435,7 +12466,7 @@
     "word": "返す",
     "reading": "かえす",
     "meanings": [
-      "to return something"
+      "return something"
     ],
     "level": "N5",
     "examples": [
@@ -12479,7 +12510,7 @@
     "word": "勉強",
     "reading": "べんきょうする",
     "meanings": [
-      "to study"
+      "study"
     ],
     "level": "N5",
     "examples": [
@@ -12500,7 +12531,7 @@
     "word": "歩く",
     "reading": "あるく",
     "meanings": [
-      "to walk"
+      "walk"
     ],
     "level": "N5",
     "examples": [
@@ -12565,7 +12596,7 @@
     "word": "忘れる",
     "reading": "わすれる",
     "meanings": [
-      "to forget"
+      "forget"
     ],
     "level": "N5",
     "examples": [
@@ -12672,8 +12703,8 @@
     "word": "磨く",
     "reading": "みがく",
     "meanings": [
-      "to brush teeth",
-      "to polish"
+      "brush teeth",
+      "polish"
     ],
     "level": "N5",
     "examples": [
@@ -12884,7 +12915,7 @@
     "word": "無くす",
     "reading": "なくす",
     "meanings": [
-      "to lose something"
+      "lose something"
     ],
     "level": "N5",
     "examples": [
@@ -13201,8 +13232,8 @@
     "word": "遊ぶ",
     "reading": "あそぶ",
     "meanings": [
-      "to play",
-      "to make a visit"
+      "play",
+      "make a visit"
     ],
     "level": "N5",
     "examples": [
@@ -13329,7 +13360,7 @@
     "word": "要る",
     "reading": "いる",
     "meanings": [
-      "to need"
+      "need"
     ],
     "level": "N5",
     "examples": [
@@ -13371,7 +13402,7 @@
     "word": "来る",
     "reading": "くる",
     "meanings": [
-      "to come"
+      "come"
     ],
     "level": "N5",
     "examples": [
@@ -13455,7 +13486,7 @@
     "word": "頼む",
     "reading": "たのむ",
     "meanings": [
-      "to ask"
+      "ask"
     ],
     "level": "N5",
     "examples": [
@@ -13497,7 +13528,7 @@
     "word": "立つ",
     "reading": "たつ",
     "meanings": [
-      "to stand"
+      "stand"
     ],
     "level": "N5",
     "examples": [
@@ -13728,7 +13759,7 @@
     "word": "練習",
     "reading": "れんしゅうする",
     "meanings": [
-      "to practice"
+      "practice"
     ],
     "level": "N5",
     "examples": [
@@ -13759,7 +13790,7 @@
       },
       {
         "ja": "戒めに廊下に立たされた。",
-        "en": "To teach him a lesson, they made him stand in the hallway."
+        "en": "teach him a lesson, they made him stand in the hallway."
       }
     ],
     "meanings_id": [
@@ -13858,7 +13889,7 @@
     "word": "話す",
     "reading": "はなす",
     "meanings": [
-      "to speak"
+      "speak"
     ],
     "level": "N5",
     "examples": [
