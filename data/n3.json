@@ -267,13 +267,13 @@
     "word": "あんなに",
     "reading": "",
     "meanings": [
-      "that extent",
-      "that degree"
+      "to that extent",
+      "to that degree"
     ],
     "level": "N3",
     "meanings_id": [
-      "that extent",
-      "that degree"
+      "to that extent",
+      "to that degree"
     ]
   },
   {
@@ -712,8 +712,8 @@
     "word": "うなる",
     "reading": "",
     "meanings": [
-      "groan",
-      "moan"
+      "to groan",
+      "to moan"
     ],
     "level": "N3",
     "examples": [
@@ -728,7 +728,7 @@
     ],
     "meanings_id": [
       "mengerang",
-      "moan"
+      "to moan"
     ]
   },
   {
@@ -2178,9 +2178,9 @@
     "word": "しまう",
     "reading": "（終わる）",
     "meanings": [
-      "finish",
-      "close",
-      "do something completely"
+      "to finish",
+      "to close",
+      "to do something completely"
     ],
     "level": "N3",
     "examples": [
@@ -2196,7 +2196,7 @@
     "meanings_id": [
       "selesai / menyelesaikan",
       "menutup",
-      "do something completely"
+      "to do something completely"
     ]
   },
   {
@@ -2247,9 +2247,9 @@
     "word": "しゃべる",
     "reading": "",
     "meanings": [
-      "talk",
-      "chat",
-      "chatter"
+      "to talk",
+      "to chat",
+      "to chatter"
     ],
     "level": "N3",
     "examples": [
@@ -2264,8 +2264,8 @@
     ],
     "meanings_id": [
       "berbicara",
-      "chat",
-      "chatter"
+      "to chat",
+      "to chatter"
     ]
   },
   {
@@ -2926,7 +2926,7 @@
       },
       {
         "ja": "人それぞれだよ。",
-        "en": "each their own."
+        "en": "To each their own."
       }
     ],
     "meanings_id": [
@@ -3471,9 +3471,9 @@
     "word": "できる",
     "reading": "（可能。出現。発生）",
     "meanings": [
-      "be able to",
-      "be ready",
-      "occur"
+      "to be able to",
+      "to be ready",
+      "to occur"
     ],
     "level": "N3",
     "examples": [
@@ -3487,8 +3487,8 @@
       }
     ],
     "meanings_id": [
-      "be able to",
-      "be ready",
+      "to be able to",
+      "to be ready",
       "terjadi"
     ]
   },
@@ -5777,7 +5777,7 @@
     "word": "愛する",
     "reading": "あいする",
     "meanings": [
-      "love"
+      "to love"
     ],
     "level": "N3",
     "examples": [
@@ -5896,9 +5896,9 @@
     "word": "握る",
     "reading": "にぎる",
     "meanings": [
-      "grasp",
-      "seize",
-      "mould sushi"
+      "to grasp",
+      "to seize",
+      "to mould sushi"
     ],
     "level": "N3",
     "examples": [
@@ -5914,7 +5914,7 @@
     "meanings_id": [
       "menggenggam / memahami",
       "menangkap",
-      "mould sushi"
+      "to mould sushi"
     ]
   },
   {
@@ -5942,9 +5942,9 @@
     "word": "扱う",
     "reading": "あつかう",
     "meanings": [
-      "handle",
-      "deal with",
-      "treat"
+      "to handle",
+      "to deal with",
+      "to treat"
     ],
     "level": "N3",
     "examples": [
@@ -5959,7 +5959,7 @@
     ],
     "meanings_id": [
       "menangani",
-      "deal with",
+      "to deal with",
       "memperlakukan / mengobati"
     ]
   },
@@ -6236,8 +6236,8 @@
     "word": "囲む",
     "reading": "かこむ",
     "meanings": [
-      "surround",
-      "encircle"
+      "to surround",
+      "to encircle"
     ],
     "level": "N3",
     "examples": [
@@ -6251,8 +6251,8 @@
       }
     ],
     "meanings_id": [
-      "surround",
-      "encircle"
+      "to surround",
+      "to encircle"
     ]
   },
   {
@@ -6393,9 +6393,9 @@
     "word": "為る",
     "reading": "する",
     "meanings": [
-      "change",
-      "be of use",
-      "reach to"
+      "to change",
+      "to be of use",
+      "to reach to"
     ],
     "level": "N3",
     "examples": [
@@ -6406,7 +6406,7 @@
     ],
     "meanings_id": [
       "berubah / mengubah",
-      "be of use",
+      "to be of use",
       "mencapai"
     ]
   },
@@ -6414,9 +6414,9 @@
     "word": "異なる",
     "reading": "ことなる",
     "meanings": [
-      "differ",
-      "vary",
-      "disagree"
+      "to differ",
+      "to vary",
+      "to disagree"
     ],
     "level": "N3",
     "examples": [
@@ -6430,8 +6430,8 @@
       }
     ],
     "meanings_id": [
-      "differ",
-      "vary",
+      "to differ",
+      "to vary",
       "tidak setuju"
     ]
   },
@@ -6464,9 +6464,9 @@
     "word": "移す",
     "reading": "うつす",
     "meanings": [
-      "remove",
-      "transfer",
-      "infect"
+      "to remove",
+      "to transfer",
+      "to infect"
     ],
     "level": "N3",
     "examples": [
@@ -6481,8 +6481,8 @@
     ],
     "meanings_id": [
       "menghapus / menyingkirkan",
-      "transfer",
-      "infect"
+      "to transfer",
+      "to infect"
     ]
   },
   {
@@ -6700,9 +6700,9 @@
     "word": "育つ",
     "reading": "そだつ",
     "meanings": [
-      "raise (child)",
-      "be brought up",
-      "grow (up)"
+      "to raise (child)",
+      "to be brought up",
+      "to grow (up)"
     ],
     "level": "N3",
     "examples": [
@@ -6717,7 +6717,7 @@
     ],
     "meanings_id": [
       "membesarkan",
-      "be brought up",
+      "to be brought up",
       "tumbuh"
     ]
   },
@@ -7166,9 +7166,9 @@
     "reading": "ひっぱる",
     "meanings": [
       "(1) to pull",
-      "draw",
-      "stretch",
-      "drag",
+      "to draw",
+      "to stretch",
+      "to drag",
       "(2) to pull the ball (baseball)"
     ],
     "level": "N3",
@@ -7186,7 +7186,7 @@
       "menarik",
       "menggambar",
       "meregangkan / meregang",
-      "drag",
+      "to drag",
       "(2) to pull the ball (baseball)"
     ]
   },
@@ -7263,8 +7263,8 @@
     "word": "隠す",
     "reading": "かくす",
     "meanings": [
-      "hide",
-      "conceal"
+      "to hide",
+      "to conceal"
     ],
     "level": "N3",
     "examples": [
@@ -7286,10 +7286,10 @@
     "word": "隠れる",
     "reading": "かくれる",
     "meanings": [
-      "hide",
-      "be hidden",
-      "conceal oneself",
-      "disappear"
+      "to hide",
+      "to be hidden",
+      "to conceal oneself",
+      "to disappear"
     ],
     "level": "N3",
     "examples": [
@@ -7300,8 +7300,8 @@
     ],
     "meanings_id": [
       "menyembunyikan",
-      "be hidden",
-      "conceal oneself",
+      "to be hidden",
+      "to conceal oneself",
       "menghilang"
     ]
   },
@@ -7718,9 +7718,9 @@
     "word": "越える",
     "reading": "こえる",
     "meanings": [
-      "exceed",
-      "cross over",
-      "cross"
+      "to exceed",
+      "to cross over",
+      "to cross"
     ],
     "level": "N3",
     "examples": [
@@ -7734,16 +7734,16 @@
       }
     ],
     "meanings_id": [
-      "exceed",
-      "cross over",
-      "cross"
+      "to exceed",
+      "to cross over",
+      "to cross"
     ]
   },
   {
     "word": "越す",
     "reading": "こす",
     "meanings": [
-      "go over (e.g. with audience)"
+      "to go over (e.g. with audience)"
     ],
     "level": "N3",
     "examples": [
@@ -7757,7 +7757,7 @@
       }
     ],
     "meanings_id": [
-      "go over (e.g. with audience)"
+      "to go over (e.g. with audience)"
     ]
   },
   {
@@ -8061,11 +8061,11 @@
     "word": "応じる",
     "reading": "おうじる",
     "meanings": [
-      "respond",
-      "satisfy",
-      "accept",
-      "comply with",
-      "apply for"
+      "to respond",
+      "to satisfy",
+      "to accept",
+      "to comply with",
+      "to apply for"
     ],
     "level": "N3",
     "examples": [
@@ -8079,10 +8079,10 @@
       }
     ],
     "meanings_id": [
-      "respond",
+      "to respond",
       "memuaskan",
       "menerima",
-      "comply with",
+      "to comply with",
       "melamar / mengajukan"
     ]
   },
@@ -8090,8 +8090,8 @@
     "word": "横切る",
     "reading": "よこぎる",
     "meanings": [
-      "cross (e.g. arms)",
-      "traverse"
+      "to cross (e.g. arms)",
+      "to traverse"
     ],
     "level": "N3",
     "examples": [
@@ -8105,8 +8105,8 @@
       }
     ],
     "meanings_id": [
-      "cross (e.g. arms)",
-      "traverse"
+      "to cross (e.g. arms)",
+      "to traverse"
     ]
   },
   {
@@ -8386,7 +8386,7 @@
     "reading": "くださる",
     "meanings": [
       "(hon) to give",
-      "confer"
+      "to confer"
     ],
     "level": "N3",
     "examples": [
@@ -8401,15 +8401,15 @@
     ],
     "meanings_id": [
       "memberi",
-      "confer"
+      "to confer"
     ]
   },
   {
     "word": "下す",
     "reading": "おろす",
     "meanings": [
-      "lower",
-      "let go down"
+      "to lower",
+      "to let go down"
     ],
     "level": "N3",
     "examples": [
@@ -8424,7 +8424,7 @@
     ],
     "meanings_id": [
       "menurunkan",
-      "let go down"
+      "to let go down"
     ]
   },
   {
@@ -8657,9 +8657,9 @@
     "word": "加える",
     "reading": "くわえる",
     "meanings": [
-      "append",
-      "sum up",
-      "add (up)"
+      "to append",
+      "to sum up",
+      "to add (up)"
     ],
     "level": "N3",
     "examples": [
@@ -8674,7 +8674,7 @@
     ],
     "meanings_id": [
       "menambahkan",
-      "sum up",
+      "to sum up",
       "menambah"
     ]
   },
@@ -8682,10 +8682,10 @@
     "word": "加わる",
     "reading": "くわわる",
     "meanings": [
-      "join in",
-      "accede to",
-      "increase",
-      "gain in (influence)"
+      "to join in",
+      "to accede to",
+      "to increase",
+      "to gain in (influence)"
     ],
     "level": "N3",
     "examples": [
@@ -8699,10 +8699,10 @@
       }
     ],
     "meanings_id": [
-      "join in",
-      "accede to",
+      "to join in",
+      "to accede to",
       "bertambah",
-      "gain in (influence)"
+      "to gain in (influence)"
     ]
   },
   {
@@ -8979,8 +8979,8 @@
     "word": "稼ぐ",
     "reading": "かせぐ",
     "meanings": [
-      "earn income",
-      "labor"
+      "to earn income",
+      "to labor"
     ],
     "level": "N3",
     "examples": [
@@ -8994,8 +8994,8 @@
       }
     ],
     "meanings_id": [
-      "earn income",
-      "labor"
+      "to earn income",
+      "to labor"
     ]
   },
   {
@@ -9044,10 +9044,10 @@
     "word": "過ごす",
     "reading": "すごす",
     "meanings": [
-      "pass",
-      "spend",
-      "go through",
-      "tide over"
+      "to pass",
+      "to spend",
+      "to go through",
+      "to tide over"
     ],
     "level": "N3",
     "examples": [
@@ -9063,8 +9063,8 @@
     "meanings_id": [
       "lulus / melewati",
       "menghabiskan",
-      "go through",
-      "tide over"
+      "to go through",
+      "to tide over"
     ]
   },
   {
@@ -9286,7 +9286,7 @@
     "word": "解く",
     "reading": "とく",
     "meanings": [
-      "unfasten"
+      "to unfasten"
     ],
     "level": "N3",
     "examples": [
@@ -9307,8 +9307,8 @@
     "word": "解ける",
     "reading": "とける",
     "meanings": [
-      "come untied",
-      "come apart"
+      "to come untied",
+      "to come apart"
     ],
     "level": "N3",
     "examples": [
@@ -9322,8 +9322,8 @@
       }
     ],
     "meanings_id": [
-      "come untied",
-      "come apart"
+      "to come untied",
+      "to come apart"
     ]
   },
   {
@@ -9399,8 +9399,8 @@
     "word": "回す",
     "reading": "まわす",
     "meanings": [
-      "turn",
-      "revolve"
+      "to turn",
+      "to revolve"
     ],
     "level": "N3",
     "examples": [
@@ -9415,7 +9415,7 @@
     ],
     "meanings_id": [
       "berbelok / memutar",
-      "revolve"
+      "to revolve"
     ]
   },
   {
@@ -9685,8 +9685,8 @@
     "word": "外す",
     "reading": "はずす",
     "meanings": [
-      "unfasten",
-      "remove"
+      "to unfasten",
+      "to remove"
     ],
     "level": "N3",
     "examples": [
@@ -9875,7 +9875,7 @@
     "word": "確かめる",
     "reading": "たしかめる",
     "meanings": [
-      "ascertain"
+      "to ascertain"
     ],
     "level": "N3",
     "examples": [
@@ -9889,7 +9889,7 @@
       }
     ],
     "meanings_id": [
-      "ascertain"
+      "to ascertain"
     ]
   },
   {
@@ -9944,7 +9944,7 @@
     "word": "覚ます",
     "reading": "さます",
     "meanings": [
-      "awaken"
+      "to awaken"
     ],
     "level": "N3",
     "examples": [
@@ -9958,15 +9958,15 @@
       }
     ],
     "meanings_id": [
-      "awaken"
+      "to awaken"
     ]
   },
   {
     "word": "覚める",
     "reading": "さめる",
     "meanings": [
-      "wake",
-      "wake up"
+      "to wake",
+      "to wake up"
     ],
     "level": "N3",
     "examples": [
@@ -10084,9 +10084,9 @@
     "word": "学ぶ",
     "reading": "まなぶ",
     "meanings": [
-      "study (in depth)",
-      "learn",
-      "take lessons in"
+      "to study (in depth)",
+      "to learn",
+      "to take lessons in"
     ],
     "level": "N3",
     "examples": [
@@ -10102,7 +10102,7 @@
     "meanings_id": [
       "belajar",
       "belajar",
-      "take lessons in"
+      "to take lessons in"
     ]
   },
   {
@@ -10245,10 +10245,10 @@
     "word": "掛かる",
     "reading": "かかる",
     "meanings": [
-      "take (e.g. time",
+      "to take (e.g. time",
       "money",
       "etc)",
-      "hang"
+      "to hang"
     ],
     "level": "N3",
     "examples": [
@@ -10262,20 +10262,20 @@
       }
     ],
     "meanings_id": [
-      "take (e.g. time",
+      "to take (e.g. time",
       "uang",
       "etc)",
-      "hang"
+      "to hang"
     ]
   },
   {
     "word": "割る",
     "reading": "わる",
     "meanings": [
-      "divide",
-      "cut",
-      "break",
-      "halve"
+      "to divide",
+      "to cut",
+      "to break",
+      "to halve"
     ],
     "level": "N3",
     "examples": [
@@ -10292,7 +10292,7 @@
       "membagi",
       "memotong",
       "mematahkan / rusak",
-      "halve"
+      "to halve"
     ]
   },
   {
@@ -10393,9 +10393,9 @@
     "word": "刈る",
     "reading": "かる",
     "meanings": [
-      "cut (hair)",
-      "mow (grass)",
-      "harvest"
+      "to cut (hair)",
+      "to mow (grass)",
+      "to harvest"
     ],
     "level": "N3",
     "examples": [
@@ -10410,7 +10410,7 @@
     ],
     "meanings_id": [
       "memotong",
-      "mow (grass)",
+      "to mow (grass)",
       "memanen"
     ]
   },
@@ -10468,10 +10468,10 @@
     "word": "勧める",
     "reading": "すすめる",
     "meanings": [
-      "recommend",
-      "advise",
-      "encourage",
-      "offer (wine)"
+      "to recommend",
+      "to advise",
+      "to encourage",
+      "to offer (wine)"
     ],
     "level": "N3",
     "examples": [
@@ -10487,7 +10487,7 @@
     "meanings_id": [
       "merekomendasikan",
       "menasihati",
-      "encourage",
+      "to encourage",
       "menawarkan"
     ]
   },
@@ -10614,9 +10614,9 @@
     "word": "感じる",
     "reading": "かんじる",
     "meanings": [
-      "feel",
-      "sense",
-      "experience"
+      "to feel",
+      "to sense",
+      "to experience"
     ],
     "level": "N3",
     "examples": [
@@ -10631,8 +10631,8 @@
     ],
     "meanings_id": [
       "merasa",
-      "sense",
-      "experience"
+      "to sense",
+      "to experience"
     ]
   },
   {
@@ -10760,10 +10760,10 @@
     "word": "換える",
     "reading": "かえる",
     "meanings": [
-      "exchange",
-      "interchange",
-      "substitute",
-      "replace"
+      "to exchange",
+      "to interchange",
+      "to substitute",
+      "to replace"
     ],
     "level": "N3",
     "examples": [
@@ -11065,8 +11065,8 @@
     "word": "関する",
     "reading": "かんする",
     "meanings": [
-      "concern",
-      "be related"
+      "to concern",
+      "to be related"
     ],
     "level": "N3",
     "examples": [
@@ -11080,8 +11080,8 @@
       }
     ],
     "meanings_id": [
-      "concern",
-      "be related"
+      "to concern",
+      "to be related"
     ]
   },
   {
@@ -11190,8 +11190,8 @@
     "word": "含む",
     "reading": "ふくむ",
     "meanings": [
-      "hold in the mouth",
-      "bear in mind"
+      "to hold in the mouth",
+      "to bear in mind"
     ],
     "level": "N3",
     "examples": [
@@ -11206,7 +11206,7 @@
     ],
     "meanings_id": [
       "mengulum",
-      "bear in mind"
+      "to bear in mind"
     ]
   },
   {
@@ -11286,9 +11286,9 @@
     "word": "願う",
     "reading": "ねがう",
     "meanings": [
-      "desire",
-      "wish",
-      "request"
+      "to desire",
+      "to wish",
+      "to request"
     ],
     "level": "N3",
     "examples": [
@@ -11413,10 +11413,10 @@
     "word": "基づく",
     "reading": "もとづく",
     "meanings": [
-      "be grounded on",
-      "be based on",
-      "be due to",
-      "originate from"
+      "to be grounded on",
+      "to be based on",
+      "to be due to",
+      "to originate from"
     ],
     "level": "N3",
     "examples": [
@@ -11430,10 +11430,10 @@
       }
     ],
     "meanings_id": [
-      "be grounded on",
-      "be based on",
-      "be due to",
-      "originate from"
+      "to be grounded on",
+      "to be based on",
+      "to be due to",
+      "to originate from"
     ]
   },
   {
@@ -11820,8 +11820,8 @@
     "word": "気に入る",
     "reading": "きにいる",
     "meanings": [
-      "be pleased with",
-      "suit"
+      "to be pleased with",
+      "to suit"
     ],
     "level": "N3",
     "examples": [
@@ -11835,7 +11835,7 @@
       }
     ],
     "meanings_id": [
-      "be pleased with",
+      "to be pleased with",
       "cocok"
     ]
   },
@@ -11908,9 +11908,9 @@
     "word": "気付く",
     "reading": "きづく",
     "meanings": [
-      "notice",
-      "recognize",
-      "become aware of"
+      "to notice",
+      "to recognize",
+      "to become aware of"
     ],
     "level": "N3",
     "examples": [
@@ -11926,7 +11926,7 @@
     "meanings_id": [
       "menyadari",
       "mengenali",
-      "become aware of"
+      "to become aware of"
     ]
   },
   {
@@ -12125,8 +12125,8 @@
     "word": "起こる",
     "reading": "おこる",
     "meanings": [
-      "occur",
-      "happen"
+      "to occur",
+      "to happen"
     ],
     "level": "N3",
     "examples": [
@@ -12148,9 +12148,9 @@
     "word": "輝く",
     "reading": "かがやく",
     "meanings": [
-      "shine",
-      "glitter",
-      "sparkle"
+      "to shine",
+      "to glitter",
+      "to sparkle"
     ],
     "level": "N3",
     "examples": [
@@ -12164,9 +12164,9 @@
       }
     ],
     "meanings_id": [
-      "shine",
-      "glitter",
-      "sparkle"
+      "to shine",
+      "to glitter",
+      "to sparkle"
     ]
   },
   {
@@ -12258,10 +12258,10 @@
     "word": "疑う",
     "reading": "うたがう",
     "meanings": [
-      "doubt",
-      "distrust",
-      "be suspicious of",
-      "suspect"
+      "to doubt",
+      "to distrust",
+      "to be suspicious of",
+      "to suspect"
     ],
     "level": "N3",
     "examples": [
@@ -12276,8 +12276,8 @@
     ],
     "meanings_id": [
       "meragukan",
-      "distrust",
-      "be suspicious of",
+      "to distrust",
+      "to be suspicious of",
       "mencurigai"
     ]
   },
@@ -12431,9 +12431,9 @@
     "word": "詰める",
     "reading": "つめる",
     "meanings": [
-      "pack",
-      "shorten",
-      "work out (details)"
+      "to pack",
+      "to shorten",
+      "to work out (details)"
     ],
     "level": "N3",
     "examples": [
@@ -12447,9 +12447,9 @@
       }
     ],
     "meanings_id": [
-      "pack",
-      "shorten",
-      "work out (details)"
+      "to pack",
+      "to shorten",
+      "to work out (details)"
     ]
   },
   {
@@ -12479,10 +12479,10 @@
     "word": "逆らう",
     "reading": "さからう",
     "meanings": [
-      "go against",
-      "oppose",
-      "disobey",
-      "defy"
+      "to go against",
+      "to oppose",
+      "to disobey",
+      "to defy"
     ],
     "level": "N3",
     "examples": [
@@ -12496,10 +12496,10 @@
       }
     ],
     "meanings_id": [
-      "go against",
+      "to go against",
       "menentang",
-      "disobey",
-      "defy"
+      "to disobey",
+      "to defy"
     ]
   },
   {
@@ -12585,9 +12585,9 @@
     "word": "及ぼす",
     "reading": "およぼす",
     "meanings": [
-      "exert",
-      "cause",
-      "exercise"
+      "to exert",
+      "to cause",
+      "to exercise"
     ],
     "level": "N3",
     "examples": [
@@ -12601,9 +12601,9 @@
       }
     ],
     "meanings_id": [
-      "exert",
+      "to exert",
       "menyebabkan",
-      "exercise"
+      "to exercise"
     ]
   },
   {
@@ -12681,8 +12681,8 @@
     "word": "救う",
     "reading": "すくう",
     "meanings": [
-      "rescue from",
-      "help out of"
+      "to rescue from",
+      "to help out of"
     ],
     "level": "N3",
     "examples": [
@@ -12696,8 +12696,8 @@
       }
     ],
     "meanings_id": [
-      "rescue from",
-      "help out of"
+      "to rescue from",
+      "to help out of"
     ]
   },
   {
@@ -12729,14 +12729,14 @@
     "word": "求める",
     "reading": "もとめる",
     "meanings": [
-      "seek",
-      "request",
-      "demand",
-      "want",
-      "wish for",
-      "search for",
-      "pursue (pleasure)",
-      "hunt (a job)"
+      "to seek",
+      "to request",
+      "to demand",
+      "to want",
+      "to wish for",
+      "to search for",
+      "to pursue (pleasure)",
+      "to hunt (a job)"
     ],
     "level": "N3",
     "examples": [
@@ -12750,14 +12750,14 @@
       }
     ],
     "meanings_id": [
-      "seek",
+      "to seek",
       "meminta",
       "menuntut",
       "ingin",
-      "wish for",
-      "search for",
-      "pursue (pleasure)",
-      "hunt (a job)"
+      "to wish for",
+      "to search for",
+      "to pursue (pleasure)",
+      "to hunt (a job)"
     ]
   },
   {
@@ -12885,8 +12885,8 @@
     "word": "去る",
     "reading": "さる",
     "meanings": [
-      "leave",
-      "go away"
+      "to leave",
+      "to go away"
     ],
     "level": "N3",
     "examples": [
@@ -12901,16 +12901,16 @@
     ],
     "meanings_id": [
       "meninggalkan",
-      "go away"
+      "to go away"
     ]
   },
   {
     "word": "居る",
     "reading": "おる",
     "meanings": [
-      "be (animate)",
-      "be",
-      "exist"
+      "to be (animate)",
+      "to be",
+      "to exist"
     ],
     "level": "N3",
     "examples": [
@@ -12924,9 +12924,9 @@
       }
     ],
     "meanings_id": [
-      "be (animate)",
-      "be",
-      "exist"
+      "to be (animate)",
+      "to be",
+      "to exist"
     ]
   },
   {
@@ -13002,9 +13002,9 @@
     "word": "許す",
     "reading": "ゆるす",
     "meanings": [
-      "permit",
-      "allow",
-      "approve"
+      "to permit",
+      "to allow",
+      "to approve"
     ],
     "level": "N3",
     "examples": [
@@ -13014,7 +13014,7 @@
       },
       {
         "ja": "過つは人、許すは神。",
-        "en": "err is human, to forgive divine."
+        "en": "To err is human, to forgive divine."
       }
     ],
     "meanings_id": [
@@ -13215,8 +13215,8 @@
     "word": "叫ぶ",
     "reading": "さけぶ",
     "meanings": [
-      "shout",
-      "cry"
+      "to shout",
+      "to cry"
     ],
     "level": "N3",
     "examples": [
@@ -13230,8 +13230,8 @@
       }
     ],
     "meanings_id": [
-      "shout",
-      "cry"
+      "to shout",
+      "to cry"
     ]
   },
   {
@@ -13334,8 +13334,8 @@
     "word": "恐れる",
     "reading": "おそれる",
     "meanings": [
-      "fear",
-      "be afraid of"
+      "to fear",
+      "to be afraid of"
     ],
     "level": "N3",
     "examples": [
@@ -13350,7 +13350,7 @@
     ],
     "meanings_id": [
       "takut",
-      "be afraid of"
+      "to be afraid of"
     ]
   },
   {
@@ -13474,8 +13474,8 @@
     "word": "狂う",
     "reading": "くるう",
     "meanings": [
-      "go mad",
-      "get out of order"
+      "to go mad",
+      "to get out of order"
     ],
     "level": "N3",
     "examples": [
@@ -13489,8 +13489,8 @@
       }
     ],
     "meanings_id": [
-      "go mad",
-      "get out of order"
+      "to go mad",
+      "to get out of order"
     ]
   },
   {
@@ -14107,15 +14107,15 @@
     "word": "苦しむ",
     "reading": "くるしむ",
     "meanings": [
-      "suffer",
-      "groan",
-      "be worried"
+      "to suffer",
+      "to groan",
+      "to be worried"
     ],
     "level": "N3",
     "examples": [
       {
         "ja": "生きることは苦しむこと。",
-        "en": "live is to suffer."
+        "en": "To live is to suffer."
       },
       {
         "ja": "理由なく苦しむのは嫌だ。",
@@ -14125,7 +14125,7 @@
     "meanings_id": [
       "menderita",
       "mengerang",
-      "be worried"
+      "to be worried"
     ]
   },
   {
@@ -14275,7 +14275,7 @@
     "reading": "すく",
     "meanings": [
       "(1) to open",
-      "become empty",
+      "to become empty",
       "(2) to be less crowded"
     ],
     "level": "N3",
@@ -14291,7 +14291,7 @@
     ],
     "meanings_id": [
       "membuka",
-      "become empty",
+      "to become empty",
       "(2) to be less crowded"
     ]
   },
@@ -14368,8 +14368,8 @@
     "word": "繰り返す",
     "reading": "くりかえす",
     "meanings": [
-      "repeat",
-      "do something over again"
+      "to repeat",
+      "to do something over again"
     ],
     "level": "N3",
     "examples": [
@@ -14383,8 +14383,8 @@
       }
     ],
     "meanings_id": [
-      "repeat",
-      "do something over again"
+      "to repeat",
+      "to do something over again"
     ]
   },
   {
@@ -14681,8 +14681,8 @@
     "word": "経つ",
     "reading": "たつ",
     "meanings": [
-      "pass",
-      "lapse"
+      "to pass",
+      "to lapse"
     ],
     "level": "N3",
     "examples": [
@@ -14697,7 +14697,7 @@
     ],
     "meanings_id": [
       "lulus / melewati",
-      "lapse"
+      "to lapse"
     ]
   },
   {
@@ -14771,10 +14771,10 @@
     "word": "繋ぐ",
     "reading": "つなぐ",
     "meanings": [
-      "tie",
-      "fasten",
-      "connect",
-      "transfer (phone call)"
+      "to tie",
+      "to fasten",
+      "to connect",
+      "to transfer (phone call)"
     ],
     "level": "N3",
     "examples": [
@@ -14785,9 +14785,9 @@
     ],
     "meanings_id": [
       "mengikat",
-      "fasten",
+      "to fasten",
       "menghubungkan",
-      "transfer (phone call)"
+      "to transfer (phone call)"
     ]
   },
   {
@@ -14815,9 +14815,9 @@
     "word": "計る",
     "reading": "はかる",
     "meanings": [
-      "measure",
-      "weigh",
-      "survey"
+      "to measure",
+      "to weigh",
+      "to survey"
     ],
     "level": "N3",
     "examples": [
@@ -14833,7 +14833,7 @@
     "meanings_id": [
       "mengukur",
       "menimbang",
-      "survey"
+      "to survey"
     ]
   },
   {
@@ -15007,9 +15007,9 @@
     "word": "撃つ",
     "reading": "うつ",
     "meanings": [
-      "attack",
-      "defeat",
-      "destroy"
+      "to attack",
+      "to defeat",
+      "to destroy"
     ],
     "level": "N3",
     "examples": [
@@ -15024,7 +15024,7 @@
     ],
     "meanings_id": [
       "menyerang",
-      "defeat",
+      "to defeat",
       "menghancurkan"
     ]
   },
@@ -15057,7 +15057,7 @@
     "word": "欠ける",
     "reading": "かける",
     "meanings": [
-      "be lacking"
+      "to be lacking"
     ],
     "level": "N3",
     "examples": [
@@ -15071,7 +15071,7 @@
       }
     ],
     "meanings_id": [
-      "be lacking"
+      "to be lacking"
     ]
   },
   {
@@ -15245,9 +15245,9 @@
     "word": "結ぶ",
     "reading": "むすぶ",
     "meanings": [
-      "tie",
-      "bind",
-      "link"
+      "to tie",
+      "to bind",
+      "to link"
     ],
     "level": "N3",
     "examples": [
@@ -15263,7 +15263,7 @@
     "meanings_id": [
       "mengikat",
       "mengikat",
-      "link"
+      "to link"
     ]
   },
   {
@@ -15458,9 +15458,9 @@
     "word": "嫌う",
     "reading": "きらう",
     "meanings": [
-      "hate",
-      "dislike",
-      "loathe"
+      "to hate",
+      "to dislike",
+      "to loathe"
     ],
     "level": "N3",
     "examples": [
@@ -15475,8 +15475,8 @@
     ],
     "meanings_id": [
       "benci",
-      "dislike",
-      "loathe"
+      "to dislike",
+      "to loathe"
     ]
   },
   {
@@ -15669,8 +15669,8 @@
     "word": "見る",
     "reading": "みる",
     "meanings": [
-      "see",
-      "watch"
+      "to see",
+      "to watch"
     ],
     "level": "N3",
     "examples": [
@@ -15944,10 +15944,10 @@
     "word": "減らす",
     "reading": "へらす",
     "meanings": [
-      "abate",
-      "decrease",
-      "diminish",
-      "shorten"
+      "to abate",
+      "to decrease",
+      "to diminish",
+      "to shorten"
     ],
     "level": "N3",
     "examples": [
@@ -15961,19 +15961,19 @@
       }
     ],
     "meanings_id": [
-      "abate",
+      "to abate",
       "berkurang",
-      "diminish",
-      "shorten"
+      "to diminish",
+      "to shorten"
     ]
   },
   {
     "word": "減る",
     "reading": "へる",
     "meanings": [
-      "decrease (in size or number)",
-      "diminish",
-      "abate"
+      "to decrease (in size or number)",
+      "to diminish",
+      "to abate"
     ],
     "level": "N3",
     "examples": [
@@ -15988,17 +15988,17 @@
     ],
     "meanings_id": [
       "berkurang",
-      "diminish",
-      "abate"
+      "to diminish",
+      "to abate"
     ]
   },
   {
     "word": "現す",
     "reading": "あらわす",
     "meanings": [
-      "show",
-      "indicate",
-      "display"
+      "to show",
+      "to indicate",
+      "to display"
     ],
     "level": "N3",
     "examples": [
@@ -16014,7 +16014,7 @@
     "meanings_id": [
       "menunjukkan",
       "menunjukkan",
-      "display"
+      "to display"
     ]
   },
   {
@@ -16045,8 +16045,8 @@
     "reading": "あらわれる",
     "meanings": [
       "(1) to appear",
-      "come in sight",
-      "become visible",
+      "to come in sight",
+      "to become visible",
       "(2) to express oneself"
     ],
     "level": "N3",
@@ -16062,8 +16062,8 @@
     ],
     "meanings_id": [
       "muncul / tampak",
-      "come in sight",
-      "become visible",
+      "to come in sight",
+      "to become visible",
       "(2) to express oneself"
     ]
   },
@@ -16244,7 +16244,7 @@
     "word": "言う",
     "reading": "ゆう",
     "meanings": [
-      "say"
+      "to say"
     ],
     "level": "N3",
     "examples": [
@@ -16330,9 +16330,9 @@
     "word": "限る",
     "reading": "かぎる",
     "meanings": [
-      "restrict",
-      "limit",
-      "confine"
+      "to restrict",
+      "to limit",
+      "to confine"
     ],
     "level": "N3",
     "examples": [
@@ -16346,9 +16346,9 @@
       }
     ],
     "meanings_id": [
-      "restrict",
-      "limit",
-      "confine"
+      "to restrict",
+      "to limit",
+      "to confine"
     ]
   },
   {
@@ -16524,8 +16524,8 @@
     "word": "雇う",
     "reading": "やとう",
     "meanings": [
-      "employ",
-      "hire"
+      "to employ",
+      "to hire"
     ],
     "level": "N3",
     "examples": [
@@ -16660,9 +16660,9 @@
     "word": "語る",
     "reading": "かたる",
     "meanings": [
-      "talk",
-      "tell",
-      "recite"
+      "to talk",
+      "to tell",
+      "to recite"
     ],
     "level": "N3",
     "examples": [
@@ -16678,7 +16678,7 @@
     "meanings_id": [
       "berbicara",
       "memberitahu",
-      "recite"
+      "to recite"
     ]
   },
   {
@@ -16871,7 +16871,7 @@
     "word": "効く",
     "reading": "きく",
     "meanings": [
-      "be effective"
+      "to be effective"
     ],
     "level": "N3",
     "examples": [
@@ -16885,7 +16885,7 @@
       }
     ],
     "meanings_id": [
-      "be effective"
+      "to be effective"
     ]
   },
   {
@@ -16946,7 +16946,7 @@
     "word": "向く",
     "reading": "むく",
     "meanings": [
-      "face"
+      "to face"
     ],
     "level": "N3",
     "examples": [
@@ -16967,8 +16967,8 @@
     "word": "向ける",
     "reading": "むける",
     "meanings": [
-      "turn towards",
-      "point"
+      "to turn towards",
+      "to point"
     ],
     "level": "N3",
     "examples": [
@@ -16982,8 +16982,8 @@
       }
     ],
     "meanings_id": [
-      "turn towards",
-      "point"
+      "to turn towards",
+      "to point"
     ]
   },
   {
@@ -17036,8 +17036,8 @@
     "word": "好む",
     "reading": "このむ",
     "meanings": [
-      "like",
-      "prefer"
+      "to like",
+      "to prefer"
     ],
     "level": "N3",
     "examples": [
@@ -17182,11 +17182,11 @@
     "word": "広がる",
     "reading": "ひろがる",
     "meanings": [
-      "spread (out)",
-      "extend",
-      "stretch",
-      "reach to",
-      "get around"
+      "to spread (out)",
+      "to extend",
+      "to stretch",
+      "to reach to",
+      "to get around"
     ],
     "level": "N3",
     "examples": [
@@ -17200,11 +17200,11 @@
       }
     ],
     "meanings_id": [
-      "spread (out)",
-      "extend",
+      "to spread (out)",
+      "to extend",
       "meregangkan / meregang",
       "mencapai",
-      "get around"
+      "to get around"
     ]
   },
   {
@@ -17290,9 +17290,9 @@
     "word": "構う",
     "reading": "かまう",
     "meanings": [
-      "mind",
-      "care about",
-      "be concerned about"
+      "to mind",
+      "to care about",
+      "to be concerned about"
     ],
     "level": "N3",
     "examples": [
@@ -17306,9 +17306,9 @@
       }
     ],
     "meanings_id": [
-      "mind",
-      "care about",
-      "be concerned about"
+      "to mind",
+      "to care about",
+      "to be concerned about"
     ]
   },
   {
@@ -17574,9 +17574,9 @@
     "word": "降ろす",
     "reading": "おろす",
     "meanings": [
-      "take down",
-      "launch",
-      "drop"
+      "to take down",
+      "to launch",
+      "to drop"
     ],
     "level": "N3",
     "examples": [
@@ -17590,8 +17590,8 @@
       }
     ],
     "meanings_id": [
-      "take down",
-      "launch",
+      "to take down",
+      "to launch",
       "menjatuhkan"
     ]
   },
@@ -17670,10 +17670,10 @@
     "word": "合わせる",
     "reading": "あわせる",
     "meanings": [
-      "join together",
-      "be opposite",
-      "face",
-      "unite"
+      "to join together",
+      "to be opposite",
+      "to face",
+      "to unite"
     ],
     "level": "N3",
     "examples": [
@@ -17687,10 +17687,10 @@
       }
     ],
     "meanings_id": [
-      "join together",
-      "be opposite",
+      "to join together",
+      "to be opposite",
       "menghadapi",
-      "unite"
+      "to unite"
     ]
   },
   {
@@ -18623,7 +18623,7 @@
     "word": "済ませる",
     "reading": "すませる",
     "meanings": [
-      "be finished"
+      "to be finished"
     ],
     "level": "N3",
     "examples": [
@@ -18637,7 +18637,7 @@
       }
     ],
     "meanings_id": [
-      "be finished"
+      "to be finished"
     ]
   },
   {
@@ -19011,7 +19011,7 @@
     "word": "殺す",
     "reading": "ころす",
     "meanings": [
-      "kill"
+      "to kill"
     ],
     "level": "N3",
     "examples": [
@@ -19170,11 +19170,11 @@
     "word": "残す",
     "reading": "のこす",
     "meanings": [
-      "leave (behind",
+      "to leave (behind",
       "over)",
-      "bequeath",
-      "save",
-      "reserve"
+      "to bequeath",
+      "to save",
+      "to reserve"
     ],
     "level": "N3",
     "examples": [
@@ -19188,9 +19188,9 @@
       }
     ],
     "meanings_id": [
-      "leave (behind",
+      "to leave (behind",
       "over)",
-      "bequeath",
+      "to bequeath",
       "menyimpan / menghemat",
       "memesan"
     ]
@@ -19227,8 +19227,8 @@
     "reading": "うかがう",
     "meanings": [
       "(hon) to visit",
-      "ask",
-      "inquire"
+      "to ask",
+      "to inquire"
     ],
     "level": "N3",
     "examples": [
@@ -19244,7 +19244,7 @@
     "meanings_id": [
       "mengunjungi",
       "bertanya",
-      "inquire"
+      "to inquire"
     ]
   },
   {
@@ -19485,9 +19485,9 @@
     "word": "指す",
     "reading": "さす",
     "meanings": [
-      "point",
-      "put up umbrella",
-      "play"
+      "to point",
+      "to put up umbrella",
+      "to play"
     ],
     "level": "N3",
     "examples": [
@@ -19501,8 +19501,8 @@
       }
     ],
     "meanings_id": [
-      "point",
-      "put up umbrella",
+      "to point",
+      "to put up umbrella",
       "bermain"
     ]
   },
@@ -19535,9 +19535,9 @@
     "word": "支える",
     "reading": "ささえる",
     "meanings": [
-      "be blocked",
-      "choke",
-      "be obstructed"
+      "to be blocked",
+      "to choke",
+      "to be obstructed"
     ],
     "level": "N3",
     "examples": [
@@ -19551,9 +19551,9 @@
       }
     ],
     "meanings_id": [
-      "be blocked",
-      "choke",
-      "be obstructed"
+      "to be blocked",
+      "to choke",
+      "to be obstructed"
     ]
   },
   {
@@ -19694,7 +19694,7 @@
     "word": "支払う",
     "reading": "しはらう",
     "meanings": [
-      "pay"
+      "to pay"
     ],
     "level": "N3",
     "examples": [
@@ -19715,10 +19715,10 @@
     "word": "止す",
     "reading": "よす",
     "meanings": [
-      "cease",
-      "abolish",
-      "resign",
-      "give up"
+      "to cease",
+      "to abolish",
+      "to resign",
+      "to give up"
     ],
     "level": "N3",
     "examples": [
@@ -19732,10 +19732,10 @@
       }
     ],
     "meanings_id": [
-      "cease",
-      "abolish",
+      "to cease",
+      "to abolish",
       "mengundurkan diri",
-      "give up"
+      "to give up"
     ]
   },
   {
@@ -19790,8 +19790,8 @@
     "word": "至る",
     "reading": "いたる",
     "meanings": [
-      "come",
-      "arrive"
+      "to come",
+      "to arrive"
     ],
     "level": "N3",
     "examples": [
@@ -19880,8 +19880,8 @@
     "word": "試す",
     "reading": "ためす",
     "meanings": [
-      "attempt",
-      "test"
+      "to attempt",
+      "to test"
     ],
     "level": "N3",
     "examples": [
@@ -19895,8 +19895,8 @@
       }
     ],
     "meanings_id": [
-      "attempt",
-      "test"
+      "to attempt",
+      "to test"
     ]
   },
   {
@@ -19947,9 +19947,9 @@
     "word": "飼う",
     "reading": "かう",
     "meanings": [
-      "keep",
-      "raise",
-      "feed"
+      "to keep",
+      "to raise",
+      "to feed"
     ],
     "level": "N3",
     "examples": [
@@ -20124,10 +20124,10 @@
     "word": "似合う",
     "reading": "にあう",
     "meanings": [
-      "suit",
-      "match",
-      "become",
-      "be like"
+      "to suit",
+      "to match",
+      "to become",
+      "to be like"
     ],
     "level": "N3",
     "examples": [
@@ -20142,18 +20142,18 @@
     ],
     "meanings_id": [
       "cocok",
-      "match",
+      "to match",
       "menjadi",
-      "be like"
+      "to be like"
     ]
   },
   {
     "word": "持ち上げる",
     "reading": "もちあげる",
     "meanings": [
-      "raise",
-      "lift up",
-      "flatter"
+      "to raise",
+      "to lift up",
+      "to flatter"
     ],
     "level": "N3",
     "examples": [
@@ -20168,8 +20168,8 @@
     ],
     "meanings_id": [
       "mengangkat / membesarkan",
-      "lift up",
-      "flatter"
+      "to lift up",
+      "to flatter"
     ]
   },
   {
@@ -20303,10 +20303,10 @@
     "word": "示す",
     "reading": "しめす",
     "meanings": [
-      "denote",
-      "show",
-      "point out",
-      "indicate"
+      "to denote",
+      "to show",
+      "to point out",
+      "to indicate"
     ],
     "level": "N3",
     "examples": [
@@ -20320,9 +20320,9 @@
       }
     ],
     "meanings_id": [
-      "denote",
+      "to denote",
       "menunjukkan",
-      "point out",
+      "to point out",
       "menunjukkan"
     ]
   },
@@ -20443,7 +20443,7 @@
     "word": "辞める",
     "reading": "やめる",
     "meanings": [
-      "retire"
+      "to retire"
     ],
     "level": "N3",
     "examples": [
@@ -20510,7 +20510,7 @@
     "word": "叱る",
     "reading": "しかる",
     "meanings": [
-      "scold"
+      "to scold"
     ],
     "level": "N3",
     "examples": [
@@ -20524,15 +20524,15 @@
       }
     ],
     "meanings_id": [
-      "scold"
+      "to scold"
     ]
   },
   {
     "word": "失う",
     "reading": "うしなう",
     "meanings": [
-      "lose",
-      "part with"
+      "to lose",
+      "to part with"
     ],
     "level": "N3",
     "examples": [
@@ -20547,7 +20547,7 @@
     ],
     "meanings_id": [
       "kehilangan / kalah",
-      "part with"
+      "to part with"
     ]
   },
   {
@@ -20682,7 +20682,7 @@
     "examples": [
       {
         "ja": "実は、退屈なんだ。",
-        "en": "tell you the truth, I'm bored."
+        "en": "To tell you the truth, I'm bored."
       },
       {
         "ja": "真実は必ず勝つさ。",
@@ -21063,11 +21063,11 @@
     "word": "取り上げる",
     "reading": "とりあげる",
     "meanings": [
-      "take up",
-      "pick up",
-      "disqualify",
-      "confiscate",
-      "deprive"
+      "to take up",
+      "to pick up",
+      "to disqualify",
+      "to confiscate",
+      "to deprive"
     ],
     "level": "N3",
     "examples": [
@@ -21081,20 +21081,20 @@
       }
     ],
     "meanings_id": [
-      "take up",
+      "to take up",
       "mengambil / memungut",
-      "disqualify",
-      "confiscate",
-      "deprive"
+      "to disqualify",
+      "to confiscate",
+      "to deprive"
     ]
   },
   {
     "word": "取れる",
     "reading": "とれる",
     "meanings": [
-      "come off",
-      "be taken off",
-      "be removed"
+      "to come off",
+      "to be taken off",
+      "to be removed"
     ],
     "level": "N3",
     "examples": [
@@ -21108,19 +21108,19 @@
       }
     ],
     "meanings_id": [
-      "come off",
-      "be taken off",
-      "be removed"
+      "to come off",
+      "to be taken off",
+      "to be removed"
     ]
   },
   {
     "word": "守る",
     "reading": "まもる",
     "meanings": [
-      "protect",
-      "obey",
-      "guard",
-      "abide (by the rules)"
+      "to protect",
+      "to obey",
+      "to guard",
+      "to abide (by the rules)"
     ],
     "level": "N3",
     "examples": [
@@ -21135,9 +21135,9 @@
     ],
     "meanings_id": [
       "melindungi",
-      "obey",
-      "guard",
-      "abide (by the rules)"
+      "to obey",
+      "to guard",
+      "to abide (by the rules)"
     ]
   },
   {
@@ -21382,10 +21382,10 @@
     "word": "受け取る",
     "reading": "うけとる",
     "meanings": [
-      "receive",
-      "get",
-      "accept",
-      "take"
+      "to receive",
+      "to get",
+      "to accept",
+      "to take"
     ],
     "level": "N3",
     "examples": [
@@ -21432,11 +21432,11 @@
     "word": "収める",
     "reading": "おさめる",
     "meanings": [
-      "obtain",
-      "reap",
-      "pay",
-      "supply",
-      "accept"
+      "to obtain",
+      "to reap",
+      "to pay",
+      "to supply",
+      "to accept"
     ],
     "level": "N3",
     "examples": [
@@ -21450,8 +21450,8 @@
       }
     ],
     "meanings_id": [
-      "obtain",
-      "reap",
+      "to obtain",
+      "to reap",
       "membayar",
       "memasok",
       "menerima"
@@ -21557,10 +21557,10 @@
     "word": "就く",
     "reading": "つく",
     "meanings": [
-      "settle in (place)",
-      "take (seat",
+      "to settle in (place)",
+      "to take (seat",
       "position)",
-      "study (under teacher)"
+      "to study (under teacher)"
     ],
     "level": "N3",
     "examples": [
@@ -21574,8 +21574,8 @@
       }
     ],
     "meanings_id": [
-      "settle in (place)",
-      "take (seat",
+      "to settle in (place)",
+      "to take (seat",
       "position)",
       "belajar"
     ]
@@ -21699,7 +21699,7 @@
     "word": "終える",
     "reading": "おえる",
     "meanings": [
-      "finish"
+      "to finish"
     ],
     "level": "N3",
     "examples": [
@@ -21937,10 +21937,10 @@
     "word": "従う",
     "reading": "したがう",
     "meanings": [
-      "abide (by the rules)",
-      "obey",
-      "follow",
-      "accompany"
+      "to abide (by the rules)",
+      "to obey",
+      "to follow",
+      "to accompany"
     ],
     "level": "N3",
     "examples": [
@@ -21954,8 +21954,8 @@
       }
     ],
     "meanings_id": [
-      "abide (by the rules)",
-      "obey",
+      "to abide (by the rules)",
+      "to obey",
       "mengikuti",
       "menemani"
     ]
@@ -22202,8 +22202,8 @@
     "word": "祝う",
     "reading": "いわう",
     "meanings": [
-      "congratulate",
-      "celebrate"
+      "to congratulate",
+      "to celebrate"
     ],
     "level": "N3",
     "examples": [
@@ -22250,9 +22250,9 @@
     "word": "出会う",
     "reading": "であう",
     "meanings": [
-      "meet by chance",
-      "come across",
-      "happen to encounter"
+      "to meet by chance",
+      "to come across",
+      "to happen to encounter"
     ],
     "level": "N3",
     "examples": [
@@ -22266,9 +22266,9 @@
       }
     ],
     "meanings_id": [
-      "meet by chance",
-      "come across",
-      "happen to encounter"
+      "to meet by chance",
+      "to come across",
+      "to happen to encounter"
     ]
   },
   {
@@ -22411,9 +22411,9 @@
     "word": "述べる",
     "reading": "のべる",
     "meanings": [
-      "state",
-      "express",
-      "mention"
+      "to state",
+      "to express",
+      "to mention"
     ],
     "level": "N3",
     "examples": [
@@ -22427,9 +22427,9 @@
       }
     ],
     "meanings_id": [
-      "state",
+      "to state",
       "mengekspresikan",
-      "mention"
+      "to mention"
     ]
   },
   {
@@ -22701,9 +22701,9 @@
     "word": "助ける",
     "reading": "たすける",
     "meanings": [
-      "help",
-      "save",
-      "rescue"
+      "to help",
+      "to save",
+      "to rescue"
     ],
     "level": "N3",
     "examples": [
@@ -22719,7 +22719,7 @@
     "meanings_id": [
       "membantu",
       "menyimpan / menghemat",
-      "rescue"
+      "to rescue"
     ]
   },
   {
@@ -22847,9 +22847,9 @@
     "word": "除く",
     "reading": "のぞく",
     "meanings": [
-      "remove",
-      "exclude",
-      "except"
+      "to remove",
+      "to exclude",
+      "to except"
     ],
     "level": "N3",
     "examples": [
@@ -22865,7 +22865,7 @@
     "meanings_id": [
       "menghapus / menyingkirkan",
       "mengecualikan",
-      "except"
+      "to except"
     ]
   },
   {
@@ -23272,7 +23272,7 @@
     "word": "招く",
     "reading": "まねく",
     "meanings": [
-      "invite"
+      "to invite"
     ],
     "level": "N3",
     "examples": [
@@ -23314,9 +23314,9 @@
     "word": "昇る",
     "reading": "のぼる",
     "meanings": [
-      "arise",
-      "ascend",
-      "go up"
+      "to arise",
+      "to ascend",
+      "to go up"
     ],
     "level": "N3",
     "examples": [
@@ -23330,9 +23330,9 @@
       }
     ],
     "meanings_id": [
-      "arise",
-      "ascend",
-      "go up"
+      "to arise",
+      "to ascend",
+      "to go up"
     ]
   },
   {
@@ -23431,10 +23431,10 @@
     "word": "省く",
     "reading": "はぶく",
     "meanings": [
-      "omit",
-      "eliminate",
-      "curtail",
-      "economize"
+      "to omit",
+      "to eliminate",
+      "to curtail",
+      "to economize"
     ],
     "level": "N3",
     "examples": [
@@ -23449,9 +23449,9 @@
     ],
     "meanings_id": [
       "menghilangkan / melewatkan",
-      "eliminate",
-      "curtail",
-      "economize"
+      "to eliminate",
+      "to curtail",
+      "to economize"
     ]
   },
   {
@@ -23767,9 +23767,9 @@
     "word": "乗せる",
     "reading": "のせる",
     "meanings": [
-      "place on (something)",
-      "take on board",
-      "give a ride"
+      "to place on (something)",
+      "to take on board",
+      "to give a ride"
     ],
     "level": "N3",
     "examples": [
@@ -23783,9 +23783,9 @@
       }
     ],
     "meanings_id": [
-      "place on (something)",
-      "take on board",
-      "give a ride"
+      "to place on (something)",
+      "to take on board",
+      "to give a ride"
     ]
   },
   {
@@ -24045,9 +24045,9 @@
     "word": "譲る",
     "reading": "ゆずる",
     "meanings": [
-      "turn over",
-      "assign",
-      "hand over"
+      "to turn over",
+      "to assign",
+      "to hand over"
     ],
     "level": "N3",
     "examples": [
@@ -24061,9 +24061,9 @@
       }
     ],
     "meanings_id": [
-      "turn over",
+      "to turn over",
       "menugaskan",
-      "hand over"
+      "to hand over"
     ]
   },
   {
@@ -24137,14 +24137,14 @@
     "word": "触れる",
     "reading": "ふれる",
     "meanings": [
-      "touch",
-      "be touched",
-      "touch on a subject",
-      "feel",
-      "violate (law",
+      "to touch",
+      "to be touched",
+      "to touch on a subject",
+      "to feel",
+      "to violate (law",
       "copyright",
       "etc.)",
-      "perceive",
+      "to perceive",
       "t"
     ],
     "level": "N3",
@@ -24160,13 +24160,13 @@
     ],
     "meanings_id": [
       "menyentuh",
-      "be touched",
-      "touch on a subject",
+      "to be touched",
+      "to touch on a subject",
       "merasa",
-      "violate (law",
+      "to violate (law",
       "copyright",
       "etc.)",
-      "perceive",
+      "to perceive",
       "t"
     ]
   },
@@ -24371,10 +24371,10 @@
     "word": "伸ばす",
     "reading": "のばす",
     "meanings": [
-      "lengthen",
-      "stretch",
-      "reach out",
-      "grow (beard)"
+      "to lengthen",
+      "to stretch",
+      "to reach out",
+      "to grow (beard)"
     ],
     "level": "N3",
     "examples": [
@@ -24388,9 +24388,9 @@
       }
     ],
     "meanings_id": [
-      "lengthen",
+      "to lengthen",
       "meregangkan / meregang",
-      "reach out",
+      "to reach out",
       "tumbuh"
     ]
   },
@@ -24398,10 +24398,10 @@
     "word": "伸びる",
     "reading": "のびる",
     "meanings": [
-      "stretch",
-      "extend",
-      "make progress",
-      "grow (beard",
+      "to stretch",
+      "to extend",
+      "to make progress",
+      "to grow (beard",
       "body height)"
     ],
     "level": "N3",
@@ -24417,9 +24417,9 @@
     ],
     "meanings_id": [
       "meregangkan / meregang",
-      "extend",
+      "to extend",
       "maju / berkembang",
-      "grow (beard",
+      "to grow (beard",
       "body height)"
     ]
   },
@@ -24427,8 +24427,8 @@
     "word": "信じる",
     "reading": "しんじる",
     "meanings": [
-      "believe",
-      "place trust in"
+      "to believe",
+      "to place trust in"
     ],
     "level": "N3",
     "examples": [
@@ -24443,7 +24443,7 @@
     ],
     "meanings_id": [
       "percaya",
-      "place trust in"
+      "to place trust in"
     ]
   },
   {
@@ -24674,11 +24674,11 @@
     "reading": "ふる",
     "meanings": [
       "(1) to wave",
-      "shake",
-      "swing",
+      "to shake",
+      "to swing",
       "(2) to sprinkle",
       "(3) to cast (actor)",
-      "allocate (work)"
+      "to allocate (work)"
     ],
     "level": "N3",
     "examples": [
@@ -24694,10 +24694,10 @@
     "meanings_id": [
       "(1) to wave",
       "mengguncang",
-      "swing",
+      "to swing",
       "(2) to sprinkle",
       "(3) to cast (actor)",
-      "allocate (work)"
+      "to allocate (work)"
     ]
   },
   {
@@ -24771,8 +24771,8 @@
     "word": "申し込む",
     "reading": "もうしこむ",
     "meanings": [
-      "apply for",
-      "make an application"
+      "to apply for",
+      "to make an application"
     ],
     "level": "N3",
     "examples": [
@@ -24787,7 +24787,7 @@
     ],
     "meanings_id": [
       "melamar / mengajukan",
-      "make an application"
+      "to make an application"
     ]
   },
   {
@@ -25166,9 +25166,9 @@
     "word": "進める",
     "reading": "すすめる",
     "meanings": [
-      "advance",
-      "promote",
-      "hasten"
+      "to advance",
+      "to promote",
+      "to hasten"
     ],
     "level": "N3",
     "examples": [
@@ -25182,9 +25182,9 @@
       }
     ],
     "meanings_id": [
-      "advance",
+      "to advance",
       "mempromosikan",
-      "hasten"
+      "to hasten"
     ]
   },
   {
@@ -25258,9 +25258,9 @@
     "word": "震える",
     "reading": "ふるえる",
     "meanings": [
-      "shiver",
-      "shake",
-      "quake"
+      "to shiver",
+      "to shake",
+      "to quake"
     ],
     "level": "N3",
     "examples": [
@@ -25274,9 +25274,9 @@
       }
     ],
     "meanings_id": [
-      "shiver",
+      "to shiver",
       "mengguncang",
-      "quake"
+      "to quake"
     ]
   },
   {
@@ -25636,8 +25636,8 @@
     "word": "酔う",
     "reading": "よう",
     "meanings": [
-      "get drunk",
-      "become intoxicated"
+      "to get drunk",
+      "to become intoxicated"
     ],
     "level": "N3",
     "examples": [
@@ -25651,8 +25651,8 @@
       }
     ],
     "meanings_id": [
-      "get drunk",
-      "become intoxicated"
+      "to get drunk",
+      "to become intoxicated"
     ]
   },
   {
@@ -25703,7 +25703,7 @@
     "word": "数える",
     "reading": "かぞえる",
     "meanings": [
-      "count"
+      "to count"
     ],
     "level": "N3",
     "examples": [
@@ -25991,7 +25991,7 @@
     "word": "成る",
     "reading": "なる",
     "meanings": [
-      "become"
+      "to become"
     ],
     "level": "N3",
     "examples": [
@@ -26346,11 +26346,11 @@
     "word": "生じる",
     "reading": "しょうじる",
     "meanings": [
-      "produce",
-      "yield",
-      "result from",
-      "arise",
-      "be generated"
+      "to produce",
+      "to yield",
+      "to result from",
+      "to arise",
+      "to be generated"
     ],
     "level": "N3",
     "examples": [
@@ -26365,10 +26365,10 @@
     ],
     "meanings_id": [
       "memproduksi",
-      "yield",
-      "result from",
-      "arise",
-      "be generated"
+      "to yield",
+      "to result from",
+      "to arise",
+      "to be generated"
     ]
   },
   {
@@ -26511,14 +26511,14 @@
     "meanings": [
       "at the most",
       "at best",
-      "the utmost",
+      "to the utmost",
       "as much (far) as possible"
     ],
     "level": "N3",
     "meanings_id": [
       "at the most",
       "at best",
-      "the utmost",
+      "to the utmost",
       "as much (far) as possible"
     ]
   },
@@ -26720,7 +26720,7 @@
     "word": "積もる",
     "reading": "つもる",
     "meanings": [
-      "pile up"
+      "to pile up"
     ],
     "level": "N3",
     "examples": [
@@ -26734,7 +26734,7 @@
       }
     ],
     "meanings_id": [
-      "pile up"
+      "to pile up"
     ]
   },
   {
@@ -26766,9 +26766,9 @@
     "word": "責める",
     "reading": "せめる",
     "meanings": [
-      "condemn",
-      "blame",
-      "criticize"
+      "to condemn",
+      "to blame",
+      "to criticize"
     ],
     "level": "N3",
     "examples": [
@@ -26782,7 +26782,7 @@
       }
     ],
     "meanings_id": [
-      "condemn",
+      "to condemn",
       "menyalahkan",
       "mengkritik"
     ]
@@ -26875,7 +26875,7 @@
     "reading": "きれる",
     "meanings": [
       "(1) to cut well",
-      "be sharp",
+      "to be sharp",
       "(2) to break (off)"
     ],
     "level": "N3",
@@ -26891,7 +26891,7 @@
     ],
     "meanings_id": [
       "(1) to cut well",
-      "be sharp",
+      "to be sharp",
       "mematahkan / rusak"
     ]
   },
@@ -27092,7 +27092,7 @@
     "reading": "まず",
     "meanings": [
       "first (of all)",
-      "start with",
+      "to start with",
       "about",
       "almost",
       "hardly (with neg. verb)"
@@ -27110,7 +27110,7 @@
     ],
     "meanings_id": [
       "pertama",
-      "start with",
+      "to start with",
       "tentang",
       "hampir",
       "hampir tidak"
@@ -27144,10 +27144,10 @@
     "reading": "しめる",
     "meanings": [
       "(1) to comprise",
-      "account for",
-      "make up (of)",
+      "to account for",
+      "to make up (of)",
       "(2) to hold",
-      "occupy"
+      "to occupy"
     ],
     "level": "N3",
     "examples": [
@@ -27162,10 +27162,10 @@
     ],
     "meanings_id": [
       "mencakup / terdiri dari",
-      "account for",
-      "make up (of)",
+      "to account for",
+      "to make up (of)",
       "memegang",
-      "occupy"
+      "to occupy"
     ]
   },
   {
@@ -27243,9 +27243,9 @@
     "word": "戦う",
     "reading": "たたかう",
     "meanings": [
-      "fight",
-      "battle",
-      "combat"
+      "to fight",
+      "to battle",
+      "to combat"
     ],
     "level": "N3",
     "examples": [
@@ -27260,8 +27260,8 @@
     ],
     "meanings_id": [
       "bertarung",
-      "battle",
-      "combat"
+      "to battle",
+      "to combat"
     ]
   },
   {
@@ -27759,7 +27759,7 @@
     "word": "組む",
     "reading": "くむ",
     "meanings": [
-      "put together"
+      "to put together"
     ],
     "level": "N3",
     "examples": [
@@ -27773,7 +27773,7 @@
       }
     ],
     "meanings_id": [
-      "put together"
+      "to put together"
     ]
   },
   {
@@ -27832,9 +27832,9 @@
     "word": "訴える",
     "reading": "うったえる",
     "meanings": [
-      "sue (a person)",
-      "resort to",
-      "appeal to"
+      "to sue (a person)",
+      "to resort to",
+      "to appeal to"
     ],
     "level": "N3",
     "examples": [
@@ -27848,9 +27848,9 @@
       }
     ],
     "meanings_id": [
-      "sue (a person)",
-      "resort to",
-      "appeal to"
+      "to sue (a person)",
+      "to resort to",
+      "to appeal to"
     ]
   },
   {
@@ -28195,8 +28195,8 @@
     "word": "増す",
     "reading": "ます",
     "meanings": [
-      "increase",
-      "grow"
+      "to increase",
+      "to grow"
     ],
     "level": "N3",
     "examples": [
@@ -28241,10 +28241,10 @@
     "word": "贈る",
     "reading": "おくる",
     "meanings": [
-      "send",
-      "give to",
-      "award to",
-      "confer on"
+      "to send",
+      "to give to",
+      "to award to",
+      "to confer on"
     ],
     "level": "N3",
     "examples": [
@@ -28259,9 +28259,9 @@
     ],
     "meanings_id": [
       "mengirim",
-      "give to",
-      "award to",
-      "confer on"
+      "to give to",
+      "to award to",
+      "to confer on"
     ]
   },
   {
@@ -28673,8 +28673,8 @@
     "word": "打つ",
     "reading": "ぶつ",
     "meanings": [
-      "hit",
-      "strike"
+      "to hit",
+      "to strike"
     ],
     "level": "N3",
     "examples": [
@@ -28689,7 +28689,7 @@
     ],
     "meanings_id": [
       "memukul",
-      "strike"
+      "to strike"
     ]
   },
   {
@@ -28792,9 +28792,9 @@
     "word": "対する",
     "reading": "たいする",
     "meanings": [
-      "face",
-      "confront",
-      "oppose"
+      "to face",
+      "to confront",
+      "to oppose"
     ],
     "level": "N3",
     "examples": [
@@ -28809,7 +28809,7 @@
     ],
     "meanings_id": [
       "menghadapi",
-      "confront",
+      "to confront",
       "menentang"
     ]
   },
@@ -28871,8 +28871,8 @@
     "word": "怠ける",
     "reading": "なまける",
     "meanings": [
-      "be idle",
-      "neglect"
+      "to be idle",
+      "to neglect"
     ],
     "level": "N3",
     "examples": [
@@ -28886,8 +28886,8 @@
       }
     ],
     "meanings_id": [
-      "be idle",
-      "neglect"
+      "to be idle",
+      "to neglect"
     ]
   },
   {
@@ -28917,10 +28917,10 @@
     "word": "替える",
     "reading": "かえる",
     "meanings": [
-      "exchange",
-      "interchange",
-      "substitute",
-      "replace"
+      "to exchange",
+      "to interchange",
+      "to substitute",
+      "to replace"
     ],
     "level": "N3",
     "examples": [
@@ -29561,10 +29561,10 @@
     "word": "叩く",
     "reading": "たたく",
     "meanings": [
-      "strike",
-      "clap",
-      "dust",
-      "beat"
+      "to strike",
+      "to clap",
+      "to dust",
+      "to beat"
     ],
     "level": "N3",
     "examples": [
@@ -29578,9 +29578,9 @@
       }
     ],
     "meanings_id": [
-      "strike",
-      "clap",
-      "dust",
+      "to strike",
+      "to clap",
+      "to dust",
       "mengalahkan / memukul"
     ]
   },
@@ -29588,8 +29588,8 @@
     "word": "達する",
     "reading": "たっする",
     "meanings": [
-      "reach",
-      "get to"
+      "to reach",
+      "to get to"
     ],
     "level": "N3",
     "examples": [
@@ -29604,14 +29604,14 @@
     ],
     "meanings_id": [
       "mencapai",
-      "get to"
+      "to get to"
     ]
   },
   {
     "word": "奪う",
     "reading": "うばう",
     "meanings": [
-      "snatch away"
+      "to snatch away"
     ],
     "level": "N3",
     "examples": [
@@ -29625,7 +29625,7 @@
       }
     ],
     "meanings_id": [
-      "snatch away"
+      "to snatch away"
     ]
   },
   {
@@ -29918,9 +29918,9 @@
     "word": "断る",
     "reading": "ことわる",
     "meanings": [
-      "refuse",
-      "decline",
-      "dismiss"
+      "to refuse",
+      "to decline",
+      "to dismiss"
     ],
     "level": "N3",
     "examples": [
@@ -29935,8 +29935,8 @@
     ],
     "meanings_id": [
       "menolak",
-      "decline",
-      "dismiss"
+      "to decline",
+      "to dismiss"
     ]
   },
   {
@@ -30692,11 +30692,11 @@
     "word": "注ぐ",
     "reading": "そそぐ",
     "meanings": [
-      "pour (into)",
-      "irrigate",
-      "pay",
-      "fill",
-      "feed (e.g. a fire)"
+      "to pour (into)",
+      "to irrigate",
+      "to pay",
+      "to fill",
+      "to feed (e.g. a fire)"
     ],
     "level": "N3",
     "examples": [
@@ -30711,7 +30711,7 @@
     ],
     "meanings_id": [
       "menuang",
-      "irrigate",
+      "to irrigate",
       "membayar",
       "mengisi",
       "memberi makan"
@@ -30861,8 +30861,8 @@
     "word": "張る",
     "reading": "はる",
     "meanings": [
-      "stick",
-      "paste"
+      "to stick",
+      "to paste"
     ],
     "level": "N3",
     "examples": [
@@ -30876,8 +30876,8 @@
       }
     ],
     "meanings_id": [
-      "stick",
-      "paste"
+      "to stick",
+      "to paste"
     ]
   },
   {
@@ -30911,8 +30911,8 @@
     "word": "眺める",
     "reading": "ながめる",
     "meanings": [
-      "view",
-      "gaze at"
+      "to view",
+      "to gaze at"
     ],
     "level": "N3",
     "examples": [
@@ -30926,8 +30926,8 @@
       }
     ],
     "meanings_id": [
-      "view",
-      "gaze at"
+      "to view",
+      "to gaze at"
     ]
   },
   {
@@ -31007,8 +31007,8 @@
     "word": "頂く",
     "reading": "いただく",
     "meanings": [
-      "receive",
-      "take food or drink (hum)"
+      "to receive",
+      "to take food or drink (hum)"
     ],
     "level": "N3",
     "examples": [
@@ -31023,7 +31023,7 @@
     ],
     "meanings_id": [
       "menerima",
-      "take food or drink (hum)"
+      "to take food or drink (hum)"
     ]
   },
   {
@@ -31159,8 +31159,8 @@
     "word": "沈む",
     "reading": "しずむ",
     "meanings": [
-      "sink",
-      "feel depressed"
+      "to sink",
+      "to feel depressed"
     ],
     "level": "N3",
     "examples": [
@@ -31174,16 +31174,16 @@
       }
     ],
     "meanings_id": [
-      "sink",
-      "feel depressed"
+      "to sink",
+      "to feel depressed"
     ]
   },
   {
     "word": "追い付く",
     "reading": "おいつく",
     "meanings": [
-      "overtake",
-      "catch up (with)"
+      "to overtake",
+      "to catch up (with)"
     ],
     "level": "N3",
     "examples": [
@@ -31197,16 +31197,16 @@
       }
     ],
     "meanings_id": [
-      "overtake",
-      "catch up (with)"
+      "to overtake",
+      "to catch up (with)"
     ]
   },
   {
     "word": "追う",
     "reading": "おう",
     "meanings": [
-      "chase",
-      "run after"
+      "to chase",
+      "to run after"
     ],
     "level": "N3",
     "examples": [
@@ -31220,8 +31220,8 @@
       }
     ],
     "meanings_id": [
-      "chase",
-      "run after"
+      "to chase",
+      "to run after"
     ]
   },
   {
@@ -31257,10 +31257,10 @@
     "word": "通じる",
     "reading": "つうじる",
     "meanings": [
-      "run to",
-      "lead to",
-      "communicate",
-      "understand"
+      "to run to",
+      "to lead to",
+      "to communicate",
+      "to understand"
     ],
     "level": "N3",
     "examples": [
@@ -31274,9 +31274,9 @@
       }
     ],
     "meanings_id": [
-      "run to",
-      "lead to",
-      "communicate",
+      "to run to",
+      "to lead to",
+      "to communicate",
       "mengerti"
     ]
   },
@@ -31284,9 +31284,9 @@
     "word": "通す",
     "reading": "とおす",
     "meanings": [
-      "let pass",
-      "overlook",
-      "continue"
+      "to let pass",
+      "to overlook",
+      "to continue"
     ],
     "level": "N3",
     "examples": [
@@ -31300,8 +31300,8 @@
       }
     ],
     "meanings_id": [
-      "let pass",
-      "overlook",
+      "to let pass",
+      "to overlook",
       "melanjutkan"
     ]
   },
@@ -31336,8 +31336,8 @@
     "word": "通り過ぎる",
     "reading": "とおりすぎる",
     "meanings": [
-      "pass",
-      "pass through"
+      "to pass",
+      "to pass through"
     ],
     "level": "N3",
     "examples": [
@@ -31352,7 +31352,7 @@
     ],
     "meanings_id": [
       "lulus / melewati",
-      "pass through"
+      "to pass through"
     ]
   },
   {
@@ -31453,9 +31453,9 @@
     "word": "掴む",
     "reading": "つかむ",
     "meanings": [
-      "seize",
-      "catch",
-      "grasp"
+      "to seize",
+      "to catch",
+      "to grasp"
     ],
     "level": "N3",
     "examples": [
@@ -31674,8 +31674,8 @@
     "word": "諦める",
     "reading": "あきらめる",
     "meanings": [
-      "give up",
-      "abandon"
+      "to give up",
+      "to abandon"
     ],
     "level": "N3",
     "examples": [
@@ -31689,8 +31689,8 @@
       }
     ],
     "meanings_id": [
-      "give up",
-      "abandon"
+      "to give up",
+      "to abandon"
     ]
   },
   {
@@ -31764,12 +31764,12 @@
     "word": "適する",
     "reading": "てきする",
     "meanings": [
-      "fit",
-      "suit"
+      "to fit",
+      "to suit"
     ],
     "level": "N3",
     "meanings_id": [
-      "fit",
+      "to fit",
       "cocok"
     ]
   },
@@ -31846,8 +31846,8 @@
     "word": "溺れる",
     "reading": "おぼれる",
     "meanings": [
-      "be drowned",
-      "indulge in"
+      "to be drowned",
+      "to indulge in"
     ],
     "level": "N3",
     "examples": [
@@ -31861,8 +31861,8 @@
       }
     ],
     "meanings_id": [
-      "be drowned",
-      "indulge in"
+      "to be drowned",
+      "to indulge in"
     ]
   },
   {
@@ -32049,8 +32049,8 @@
     "word": "転ぶ",
     "reading": "ころぶ",
     "meanings": [
-      "fall down",
-      "fall over"
+      "to fall down",
+      "to fall over"
     ],
     "level": "N3",
     "examples": [
@@ -32064,8 +32064,8 @@
       }
     ],
     "meanings_id": [
-      "fall down",
-      "fall over"
+      "to fall down",
+      "to fall over"
     ]
   },
   {
@@ -32165,7 +32165,7 @@
       "(1) to breathe",
       "(2) to tell (lies)",
       "(3) to vomit",
-      "disgorge"
+      "to disgorge"
     ],
     "level": "N3",
     "examples": [
@@ -32182,7 +32182,7 @@
       "(1) to breathe",
       "memberitahu",
       "(3) to vomit",
-      "disgorge"
+      "to disgorge"
     ]
   },
   {
@@ -32444,10 +32444,10 @@
     "word": "倒す",
     "reading": "たおす",
     "meanings": [
-      "throw down",
-      "beat",
-      "bring down",
-      "blow down"
+      "to throw down",
+      "to beat",
+      "to bring down",
+      "to blow down"
     ],
     "level": "N3",
     "examples": [
@@ -32461,10 +32461,10 @@
       }
     ],
     "meanings_id": [
-      "throw down",
+      "to throw down",
       "mengalahkan / memukul",
-      "bring down",
-      "blow down"
+      "to bring down",
+      "to blow down"
     ]
   },
   {
@@ -32492,9 +32492,9 @@
     "word": "凍る",
     "reading": "こおる",
     "meanings": [
-      "freeze",
-      "be frozen over",
-      "congeal"
+      "to freeze",
+      "to be frozen over",
+      "to congeal"
     ],
     "level": "N3",
     "examples": [
@@ -32508,9 +32508,9 @@
       }
     ],
     "meanings_id": [
-      "freeze",
-      "be frozen over",
-      "congeal"
+      "to freeze",
+      "to be frozen over",
+      "to congeal"
     ]
   },
   {
@@ -32611,9 +32611,9 @@
     "word": "当たる",
     "reading": "あたる",
     "meanings": [
-      "be hit",
-      "be successful",
-      "be equivalent to"
+      "to be hit",
+      "to be successful",
+      "to be equivalent to"
     ],
     "level": "N3",
     "examples": [
@@ -32627,17 +32627,17 @@
       }
     ],
     "meanings_id": [
-      "be hit",
-      "be successful",
-      "be equivalent to"
+      "to be hit",
+      "to be successful",
+      "to be equivalent to"
     ]
   },
   {
     "word": "当てる",
     "reading": "あてる",
     "meanings": [
-      "hit",
-      "apply a patch"
+      "to hit",
+      "to apply a patch"
     ],
     "level": "N3",
     "examples": [
@@ -32652,7 +32652,7 @@
     ],
     "meanings_id": [
       "memukul",
-      "apply a patch"
+      "to apply a patch"
     ]
   },
   {
@@ -32839,8 +32839,8 @@
     "word": "動かす",
     "reading": "うごかす",
     "meanings": [
-      "move",
-      "shift"
+      "to move",
+      "to shift"
     ],
     "level": "N3",
     "examples": [
@@ -32855,7 +32855,7 @@
     ],
     "meanings_id": [
       "pindah / bergerak",
-      "shift"
+      "to shift"
     ]
   },
   {
@@ -33031,9 +33031,9 @@
     "word": "得る",
     "reading": "える",
     "meanings": [
-      "get",
-      "gain",
-      "win"
+      "to get",
+      "to gain",
+      "to win"
     ],
     "level": "N3",
     "examples": [
@@ -33048,7 +33048,7 @@
     ],
     "meanings_id": [
       "mendapatkan",
-      "gain",
+      "to gain",
       "menang"
     ]
   },
@@ -33294,7 +33294,7 @@
     "word": "届く",
     "reading": "とどく",
     "meanings": [
-      "reach"
+      "to reach"
     ],
     "level": "N3",
     "examples": [
@@ -33743,8 +33743,8 @@
     "word": "任せる",
     "reading": "まかせる",
     "meanings": [
-      "entrust to another",
-      "leave to"
+      "to entrust to another",
+      "to leave to"
     ],
     "level": "N3",
     "examples": [
@@ -33758,19 +33758,19 @@
       }
     ],
     "meanings_id": [
-      "entrust to another",
-      "leave to"
+      "to entrust to another",
+      "to leave to"
     ]
   },
   {
     "word": "認める",
     "reading": "みとめる",
     "meanings": [
-      "recognize",
-      "appreciate",
-      "approve",
-      "admit",
-      "notice"
+      "to recognize",
+      "to appreciate",
+      "to approve",
+      "to admit",
+      "to notice"
     ],
     "level": "N3",
     "examples": [
@@ -33795,7 +33795,7 @@
     "word": "濡れる",
     "reading": "ぬれる",
     "meanings": [
-      "get wet"
+      "to get wet"
     ],
     "level": "N3",
     "examples": [
@@ -33809,7 +33809,7 @@
       }
     ],
     "meanings_id": [
-      "get wet"
+      "to get wet"
     ]
   },
   {
@@ -34042,7 +34042,7 @@
     "word": "燃える",
     "reading": "もえる",
     "meanings": [
-      "burn"
+      "to burn"
     ],
     "level": "N3",
     "examples": [
@@ -34063,8 +34063,8 @@
     "word": "悩む",
     "reading": "なやむ",
     "meanings": [
-      "be worried",
-      "be troubled"
+      "to be worried",
+      "to be troubled"
     ],
     "level": "N3",
     "examples": [
@@ -34078,8 +34078,8 @@
       }
     ],
     "meanings_id": [
-      "be worried",
-      "be troubled"
+      "to be worried",
+      "to be troubled"
     ]
   },
   {
@@ -34274,11 +34274,11 @@
     "word": "破る",
     "reading": "やぶる",
     "meanings": [
-      "tear",
-      "violate",
-      "defeat",
-      "smash",
-      "destroy"
+      "to tear",
+      "to violate",
+      "to defeat",
+      "to smash",
+      "to destroy"
     ],
     "level": "N3",
     "examples": [
@@ -34292,10 +34292,10 @@
       }
     ],
     "meanings_id": [
-      "tear",
-      "violate",
-      "defeat",
-      "smash",
+      "to tear",
+      "to violate",
+      "to defeat",
+      "to smash",
       "menghancurkan"
     ]
   },
@@ -34495,7 +34495,7 @@
     "word": "売れる",
     "reading": "うれる",
     "meanings": [
-      "be sold"
+      "to be sold"
     ],
     "level": "N3",
     "examples": [
@@ -34509,7 +34509,7 @@
       }
     ],
     "meanings_id": [
-      "be sold"
+      "to be sold"
     ]
   },
   {
@@ -34851,8 +34851,8 @@
     "word": "罰する",
     "reading": "ばっする",
     "meanings": [
-      "punish",
-      "penalize"
+      "to punish",
+      "to penalize"
     ],
     "level": "N3",
     "examples": [
@@ -34867,18 +34867,18 @@
     ],
     "meanings_id": [
       "menghukum",
-      "penalize"
+      "to penalize"
     ]
   },
   {
     "word": "抜く",
     "reading": "ぬく",
     "meanings": [
-      "extract",
-      "omit",
-      "surpass",
-      "draw out",
-      "unplug"
+      "to extract",
+      "to omit",
+      "to surpass",
+      "to draw out",
+      "to unplug"
     ],
     "level": "N3",
     "examples": [
@@ -34892,20 +34892,20 @@
       }
     ],
     "meanings_id": [
-      "extract",
+      "to extract",
       "menghilangkan / melewatkan",
-      "surpass",
-      "draw out",
-      "unplug"
+      "to surpass",
+      "to draw out",
+      "to unplug"
     ]
   },
   {
     "word": "抜ける",
     "reading": "ぬける",
     "meanings": [
-      "come out",
-      "fall out",
-      "be omitted"
+      "to come out",
+      "to fall out",
+      "to be omitted"
     ],
     "level": "N3",
     "examples": [
@@ -34919,9 +34919,9 @@
       }
     ],
     "meanings_id": [
-      "come out",
-      "fall out",
-      "be omitted"
+      "to come out",
+      "to fall out",
+      "to be omitted"
     ]
   },
   {
@@ -35156,7 +35156,7 @@
       },
       {
         "ja": "夜を徹するか否か。",
-        "en": "work all night, or not."
+        "en": "To work all night, or not."
       }
     ],
     "meanings_id": [
@@ -35214,9 +35214,9 @@
     "word": "悲しむ",
     "reading": "かなしむ",
     "meanings": [
-      "be sad",
-      "mourn for",
-      "regret"
+      "to be sad",
+      "to mourn for",
+      "to regret"
     ],
     "level": "N3",
     "examples": [
@@ -35230,9 +35230,9 @@
       }
     ],
     "meanings_id": [
-      "be sad",
-      "mourn for",
-      "regret"
+      "to be sad",
+      "to mourn for",
+      "to regret"
     ]
   },
   {
@@ -35410,7 +35410,7 @@
     "word": "被る",
     "reading": "かぶる",
     "meanings": [
-      "suffer"
+      "to suffer"
     ],
     "level": "N3",
     "examples": [
@@ -35477,7 +35477,7 @@
     "meanings": [
       "(1) to avoid (physical contact )",
       "(2) to ward off",
-      "avert"
+      "to avert"
     ],
     "level": "N3",
     "examples": [
@@ -35493,7 +35493,7 @@
     "meanings_id": [
       "menghindari",
       "(2) to ward off",
-      "avert"
+      "to avert"
     ]
   },
   {
@@ -35525,8 +35525,8 @@
     "word": "飛ばす",
     "reading": "とばす",
     "meanings": [
-      "skip over",
-      "omit"
+      "to skip over",
+      "to omit"
     ],
     "level": "N3",
     "examples": [
@@ -35540,7 +35540,7 @@
       }
     ],
     "meanings_id": [
-      "skip over",
+      "to skip over",
       "menghilangkan / melewatkan"
     ]
   },
@@ -35548,9 +35548,9 @@
     "word": "飛び出す",
     "reading": "とびだす",
     "meanings": [
-      "jump out",
-      "rush out",
-      "fly out"
+      "to jump out",
+      "to rush out",
+      "to fly out"
     ],
     "level": "N3",
     "examples": [
@@ -35564,9 +35564,9 @@
       }
     ],
     "meanings_id": [
-      "jump out",
-      "rush out",
-      "fly out"
+      "to jump out",
+      "to rush out",
+      "to fly out"
     ]
   },
   {
@@ -35594,10 +35594,10 @@
     "word": "備える",
     "reading": "そなえる",
     "meanings": [
-      "furnish",
-      "provide for",
-      "equip",
-      "install"
+      "to furnish",
+      "to provide for",
+      "to equip",
+      "to install"
     ],
     "level": "N3",
     "examples": [
@@ -35611,17 +35611,17 @@
       }
     ],
     "meanings_id": [
-      "furnish",
-      "provide for",
-      "equip",
-      "install"
+      "to furnish",
+      "to provide for",
+      "to equip",
+      "to install"
     ]
   },
   {
     "word": "微笑む",
     "reading": "ほほえむ",
     "meanings": [
-      "smile"
+      "to smile"
     ],
     "level": "N3",
     "examples": [
@@ -35857,9 +35857,9 @@
     "word": "表す",
     "reading": "あらわす",
     "meanings": [
-      "express",
-      "show",
-      "reveal"
+      "to express",
+      "to show",
+      "to reveal"
     ],
     "level": "N3",
     "examples": [
@@ -35875,7 +35875,7 @@
     "meanings_id": [
       "mengekspresikan",
       "menunjukkan",
-      "reveal"
+      "to reveal"
     ]
   },
   {
@@ -36009,11 +36009,11 @@
     "word": "描く",
     "reading": "えがく",
     "meanings": [
-      "draw",
-      "paint",
-      "sketch",
-      "depict",
-      "describe"
+      "to draw",
+      "to paint",
+      "to sketch",
+      "to depict",
+      "to describe"
     ],
     "level": "N3",
     "examples": [
@@ -36029,8 +36029,8 @@
     "meanings_id": [
       "menggambar",
       "melukis",
-      "sketch",
-      "depict",
+      "to sketch",
+      "to depict",
       "menggambarkan"
     ]
   },
@@ -36454,10 +36454,10 @@
     "word": "付ける",
     "reading": "つける",
     "meanings": [
-      "attach",
-      "join",
-      "add",
-      "append"
+      "to attach",
+      "to join",
+      "to add",
+      "to append"
     ],
     "level": "N3",
     "examples": [
@@ -36621,8 +36621,8 @@
     "word": "腐る",
     "reading": "くさる",
     "meanings": [
-      "rot",
-      "go bad"
+      "to rot",
+      "to go bad"
     ],
     "level": "N3",
     "examples": [
@@ -36636,8 +36636,8 @@
       }
     ],
     "meanings_id": [
-      "rot",
-      "go bad"
+      "to rot",
+      "to go bad"
     ]
   },
   {
@@ -36851,11 +36851,11 @@
     "word": "覆う",
     "reading": "おおう",
     "meanings": [
-      "cover",
-      "hide",
-      "conceal",
-      "wrap",
-      "disguise"
+      "to cover",
+      "to hide",
+      "to conceal",
+      "to wrap",
+      "to disguise"
     ],
     "level": "N3",
     "examples": [
@@ -36873,7 +36873,7 @@
       "menyembunyikan",
       "menyembunyikan",
       "membungkus",
-      "disguise"
+      "to disguise"
     ]
   },
   {
@@ -37066,8 +37066,8 @@
     "word": "分ける",
     "reading": "わける",
     "meanings": [
-      "divide",
-      "separate"
+      "to divide",
+      "to separate"
     ],
     "level": "N3",
     "examples": [
@@ -37429,9 +37429,9 @@
     "word": "閉じる",
     "reading": "とじる",
     "meanings": [
-      "close (e.g. book",
+      "to close (e.g. book",
       "eyes)",
-      "shut"
+      "to shut"
     ],
     "level": "N3",
     "examples": [
@@ -37445,9 +37445,9 @@
       }
     ],
     "meanings_id": [
-      "close (e.g. book",
+      "to close (e.g. book",
       "eyes)",
-      "shut"
+      "to shut"
     ]
   },
   {
@@ -37756,8 +37756,8 @@
     "word": "捕まる",
     "reading": "つかまる",
     "meanings": [
-      "be caught",
-      "be arrested"
+      "to be caught",
+      "to be arrested"
     ],
     "level": "N3",
     "examples": [
@@ -37771,8 +37771,8 @@
       }
     ],
     "meanings_id": [
-      "be caught",
-      "be arrested"
+      "to be caught",
+      "to be arrested"
     ]
   },
   {
@@ -37854,8 +37854,8 @@
     "word": "暮らす",
     "reading": "くらす",
     "meanings": [
-      "live",
-      "get along"
+      "to live",
+      "to get along"
     ],
     "level": "N3",
     "examples": [
@@ -37870,7 +37870,7 @@
     ],
     "meanings_id": [
       "tinggal / hidup",
-      "get along"
+      "to get along"
     ]
   },
   {
@@ -38019,7 +38019,7 @@
     "word": "抱える",
     "reading": "かかえる",
     "meanings": [
-      "hold or carry under or in the arms"
+      "to hold or carry under or in the arms"
     ],
     "level": "N3",
     "examples": [
@@ -38033,7 +38033,7 @@
       }
     ],
     "meanings_id": [
-      "hold or carry under or in the arms"
+      "to hold or carry under or in the arms"
     ]
   },
   {
@@ -38041,9 +38041,9 @@
     "reading": "いだく",
     "meanings": [
       "(sl) to embrace",
-      "hug",
-      "harbour",
-      "entertain"
+      "to hug",
+      "to harbour",
+      "to entertain"
     ],
     "level": "N3",
     "examples": [
@@ -38058,17 +38058,17 @@
     ],
     "meanings_id": [
       "memeluk",
-      "hug",
-      "harbour",
-      "entertain"
+      "to hug",
+      "to harbour",
+      "to entertain"
     ]
   },
   {
     "word": "放す",
     "reading": "はなす",
     "meanings": [
-      "separate",
-      "set free"
+      "to separate",
+      "to set free"
     ],
     "level": "N3",
     "examples": [
@@ -38083,7 +38083,7 @@
     ],
     "meanings_id": [
       "memisahkan",
-      "set free"
+      "to set free"
     ]
   },
   {
@@ -38263,9 +38263,9 @@
     "word": "褒める",
     "reading": "ほめる",
     "meanings": [
-      "praise",
-      "admire",
-      "speak well"
+      "to praise",
+      "to admire",
+      "to speak well"
     ],
     "level": "N3",
     "examples": [
@@ -38281,7 +38281,7 @@
     "meanings_id": [
       "memuji",
       "mengagumi",
-      "speak well"
+      "to speak well"
     ]
   },
   {
@@ -38365,9 +38365,9 @@
     "word": "飽きる",
     "reading": "あきる",
     "meanings": [
-      "get tired of",
-      "lose interest in",
-      "have enough"
+      "to get tired of",
+      "to lose interest in",
+      "to have enough"
     ],
     "level": "N3",
     "examples": [
@@ -38381,9 +38381,9 @@
       }
     ],
     "meanings_id": [
-      "get tired of",
-      "lose interest in",
-      "have enough"
+      "to get tired of",
+      "to lose interest in",
+      "to have enough"
     ]
   },
   {
@@ -38415,10 +38415,10 @@
     "word": "望む",
     "reading": "のぞむ",
     "meanings": [
-      "desire",
-      "wish for",
-      "see",
-      "command (a view of)"
+      "to desire",
+      "to wish for",
+      "to see",
+      "to command (a view of)"
     ],
     "level": "N3",
     "examples": [
@@ -38433,7 +38433,7 @@
     ],
     "meanings_id": [
       "menginginkan",
-      "wish for",
+      "to wish for",
       "melihat",
       "memerintah"
     ]
@@ -38492,9 +38492,9 @@
     "word": "防ぐ",
     "reading": "ふせぐ",
     "meanings": [
-      "defend (against)",
-      "protect",
-      "prevent"
+      "to defend (against)",
+      "to protect",
+      "to prevent"
     ],
     "level": "N3",
     "examples": [
@@ -38517,12 +38517,12 @@
     "word": "吠える",
     "reading": "ほえる",
     "meanings": [
-      "bark",
-      "bay",
-      "howl",
-      "bellow",
-      "roar",
-      "cry"
+      "to bark",
+      "to bay",
+      "to howl",
+      "to bellow",
+      "to roar",
+      "to cry"
     ],
     "level": "N3",
     "examples": [
@@ -38536,12 +38536,12 @@
       }
     ],
     "meanings_id": [
-      "bark",
-      "bay",
-      "howl",
-      "bellow",
-      "roar",
-      "cry"
+      "to bark",
+      "to bay",
+      "to howl",
+      "to bellow",
+      "to roar",
+      "to cry"
     ]
   },
   {
@@ -38732,17 +38732,17 @@
     "word": "満ちる",
     "reading": "みちる",
     "meanings": [
-      "be full",
-      "rise (tide)",
-      "mature",
-      "expire"
+      "to be full",
+      "to rise (tide)",
+      "to mature",
+      "to expire"
     ],
     "level": "N3",
     "meanings_id": [
-      "be full",
+      "to be full",
       "naik",
-      "mature",
-      "expire"
+      "to mature",
+      "to expire"
     ]
   },
   {
@@ -39185,9 +39185,9 @@
     "word": "命じる",
     "reading": "めいじる",
     "meanings": [
-      "order",
-      "command",
-      "appoint"
+      "to order",
+      "to command",
+      "to appoint"
     ],
     "level": "N3",
     "examples": [
@@ -39260,8 +39260,8 @@
     "word": "明ける",
     "reading": "あける",
     "meanings": [
-      "dawn",
-      "become daylight"
+      "to dawn",
+      "to become daylight"
     ],
     "level": "N3",
     "examples": [
@@ -39275,8 +39275,8 @@
       }
     ],
     "meanings_id": [
-      "dawn",
-      "become daylight"
+      "to dawn",
+      "to become daylight"
     ]
   },
   {
@@ -39604,7 +39604,7 @@
     "word": "黙る",
     "reading": "だまる",
     "meanings": [
-      "be silent"
+      "to be silent"
     ],
     "level": "N3",
     "examples": [
@@ -39618,7 +39618,7 @@
       }
     ],
     "meanings_id": [
-      "be silent"
+      "to be silent"
     ]
   },
   {
@@ -39723,9 +39723,9 @@
     "word": "戻す",
     "reading": "もどす",
     "meanings": [
-      "restore",
-      "put back",
-      "return"
+      "to restore",
+      "to put back",
+      "to return"
     ],
     "level": "N3",
     "examples": [
@@ -39739,8 +39739,8 @@
       }
     ],
     "meanings_id": [
-      "restore",
-      "put back",
+      "to restore",
+      "to put back",
       "pulang / kembali"
     ]
   },
@@ -39748,7 +39748,7 @@
     "word": "貰う",
     "reading": "もらう",
     "meanings": [
-      "receive"
+      "to receive"
     ],
     "level": "N3",
     "examples": [
@@ -40163,15 +40163,15 @@
     "word": "優れる",
     "reading": "すぐれる",
     "meanings": [
-      "surpass",
-      "outstrip",
-      "excel"
+      "to surpass",
+      "to outstrip",
+      "to excel"
     ],
     "level": "N3",
     "meanings_id": [
-      "surpass",
-      "outstrip",
-      "excel"
+      "to surpass",
+      "to outstrip",
+      "to excel"
     ]
   },
   {
@@ -40322,8 +40322,8 @@
     "word": "有る",
     "reading": "ある",
     "meanings": [
-      "be",
-      "have"
+      "to be",
+      "to have"
     ],
     "level": "N3",
     "examples": [
@@ -40337,8 +40337,8 @@
       }
     ],
     "meanings_id": [
-      "be",
-      "have"
+      "to be",
+      "to have"
     ]
   },
   {
@@ -40425,10 +40425,10 @@
     "reading": "さそう",
     "meanings": [
       "(1) to invite",
-      "ask",
+      "to ask",
       "(2) to tempt",
-      "lure",
-      "induce"
+      "to lure",
+      "to induce"
     ],
     "level": "N3",
     "examples": [
@@ -40445,8 +40445,8 @@
       "mengundang",
       "bertanya",
       "(2) to tempt",
-      "lure",
-      "induce"
+      "to lure",
+      "to induce"
     ]
   },
   {
@@ -40699,9 +40699,9 @@
     "word": "与える",
     "reading": "あたえる",
     "meanings": [
-      "give",
-      "present",
-      "award"
+      "to give",
+      "to present",
+      "to award"
     ],
     "level": "N3",
     "examples": [
@@ -40716,17 +40716,17 @@
     ],
     "meanings_id": [
       "memberi",
-      "present",
-      "award"
+      "to present",
+      "to award"
     ]
   },
   {
     "word": "預ける",
     "reading": "あずける",
     "meanings": [
-      "give into custody",
-      "entrust",
-      "deposit"
+      "to give into custody",
+      "to entrust",
+      "to deposit"
     ],
     "level": "N3",
     "examples": [
@@ -40740,9 +40740,9 @@
       }
     ],
     "meanings_id": [
-      "give into custody",
-      "entrust",
-      "deposit"
+      "to give into custody",
+      "to entrust",
+      "to deposit"
     ]
   },
   {
@@ -40891,8 +40891,8 @@
     "word": "用いる",
     "reading": "もちいる",
     "meanings": [
-      "use",
-      "make use of"
+      "to use",
+      "to make use of"
     ],
     "level": "N3",
     "examples": [
@@ -40907,7 +40907,7 @@
     ],
     "meanings_id": [
       "menggunakan",
-      "make use of"
+      "to make use of"
     ]
   },
   {
@@ -41062,9 +41062,9 @@
     "word": "浴びる",
     "reading": "あびる",
     "meanings": [
-      "bathe",
-      "bask in the sun",
-      "shower"
+      "to bathe",
+      "to bask in the sun",
+      "to shower"
     ],
     "level": "N3",
     "examples": [
@@ -41079,7 +41079,7 @@
     ],
     "meanings_id": [
       "mandi",
-      "bask in the sun",
+      "to bask in the sun",
       "mandi"
     ]
   },
@@ -41154,9 +41154,9 @@
     "word": "頼る",
     "reading": "たよる",
     "meanings": [
-      "rely on",
-      "have recourse to",
-      "depend on"
+      "to rely on",
+      "to have recourse to",
+      "to depend on"
     ],
     "level": "N3",
     "examples": [
@@ -41170,9 +41170,9 @@
       }
     ],
     "meanings_id": [
-      "rely on",
-      "have recourse to",
-      "depend on"
+      "to rely on",
+      "to have recourse to",
+      "to depend on"
     ]
   },
   {
@@ -41281,8 +41281,8 @@
     "word": "履く",
     "reading": "はく",
     "meanings": [
-      "wear",
-      "put on (lower body)"
+      "to wear",
+      "to put on (lower body)"
     ],
     "level": "N3",
     "examples": [
@@ -41297,7 +41297,7 @@
     ],
     "meanings_id": [
       "memakai",
-      "put on (lower body)"
+      "to put on (lower body)"
     ]
   },
   {
@@ -41348,9 +41348,9 @@
     "word": "裏切る",
     "reading": "うらぎる",
     "meanings": [
-      "betray",
-      "turn traitor to",
-      "double-cross"
+      "to betray",
+      "to turn traitor to",
+      "to double-cross"
     ],
     "level": "N3",
     "examples": [
@@ -41364,16 +41364,16 @@
       }
     ],
     "meanings_id": [
-      "betray",
-      "turn traitor to",
-      "double-cross"
+      "to betray",
+      "to turn traitor to",
+      "to double-cross"
     ]
   },
   {
     "word": "離す",
     "reading": "はなす",
     "meanings": [
-      "part",
+      "to part",
       "divide",
       "separate"
     ],
@@ -41389,7 +41389,7 @@
       }
     ],
     "meanings_id": [
-      "part",
+      "to part",
       "divide",
       "separate"
     ]
@@ -41398,10 +41398,10 @@
     "word": "離れる",
     "reading": "はなれる",
     "meanings": [
-      "be separated from",
-      "leave",
-      "go away",
-      "be a long way off"
+      "to be separated from",
+      "to leave",
+      "to go away",
+      "to be a long way off"
     ],
     "level": "N3",
     "examples": [
@@ -41415,10 +41415,10 @@
       }
     ],
     "meanings_id": [
-      "be separated from",
+      "to be separated from",
       "meninggalkan",
-      "go away",
-      "be a long way off"
+      "to go away",
+      "to be a long way off"
     ]
   },
   {
@@ -41494,7 +41494,7 @@
     "word": "立ち上がる",
     "reading": "たちあがる",
     "meanings": [
-      "stand up"
+      "to stand up"
     ],
     "level": "N3",
     "examples": [
@@ -41508,7 +41508,7 @@
       }
     ],
     "meanings_id": [
-      "stand up"
+      "to stand up"
     ]
   },
   {
@@ -41575,11 +41575,11 @@
     "word": "流す",
     "reading": "ながす",
     "meanings": [
-      "drain",
-      "float",
-      "shed (blood",
+      "to drain",
+      "to float",
+      "to shed (blood",
       "tears)",
-      "cruise (e.g. taxi)"
+      "to cruise (e.g. taxi)"
     ],
     "level": "N3",
     "examples": [
@@ -41593,11 +41593,11 @@
       }
     ],
     "meanings_id": [
-      "drain",
-      "float",
-      "shed (blood",
+      "to drain",
+      "to float",
+      "to shed (blood",
       "tears)",
-      "cruise (e.g. taxi)"
+      "to cruise (e.g. taxi)"
     ]
   },
   {
@@ -41627,10 +41627,10 @@
     "word": "流れる",
     "reading": "ながれる",
     "meanings": [
-      "stream",
-      "flow",
-      "run (ink)",
-      "be washed away"
+      "to stream",
+      "to flow",
+      "to run (ink)",
+      "to be washed away"
     ],
     "level": "N3",
     "examples": [
@@ -41644,10 +41644,10 @@
       }
     ],
     "meanings_id": [
-      "stream",
-      "flow",
+      "to stream",
+      "to flow",
       "berlari",
-      "be washed away"
+      "to be washed away"
     ]
   },
   {
@@ -41681,9 +41681,9 @@
     "word": "留める",
     "reading": "とめる",
     "meanings": [
-      "fasten",
-      "turn off",
-      "detain"
+      "to fasten",
+      "to turn off",
+      "to detain"
     ],
     "level": "N3",
     "examples": [
@@ -41697,9 +41697,9 @@
       }
     ],
     "meanings_id": [
-      "fasten",
-      "turn off",
-      "detain"
+      "to fasten",
+      "to turn off",
+      "to detain"
     ]
   },
   {
@@ -42017,8 +42017,8 @@
     "word": "劣る",
     "reading": "おとる",
     "meanings": [
-      "fall behind",
-      "be inferior to"
+      "to fall behind",
+      "to be inferior to"
     ],
     "level": "N3",
     "examples": [
@@ -42032,8 +42032,8 @@
       }
     ],
     "meanings_id": [
-      "fall behind",
-      "be inferior to"
+      "to fall behind",
+      "to be inferior to"
     ]
   },
   {
@@ -42255,9 +42255,9 @@
     "word": "論じる",
     "reading": "ろんじる",
     "meanings": [
-      "argue",
-      "discuss",
-      "debate"
+      "to argue",
+      "to discuss",
+      "to debate"
     ],
     "level": "N3",
     "examples": [
@@ -42330,8 +42330,8 @@
     "word": "話し合う",
     "reading": "はなしあう",
     "meanings": [
-      "discuss",
-      "talk together"
+      "to discuss",
+      "to talk together"
     ],
     "level": "N3",
     "examples": [
@@ -42346,7 +42346,7 @@
     ],
     "meanings_id": [
       "mendiskusikan",
-      "talk together"
+      "to talk together"
     ]
   },
   {
@@ -42443,11 +42443,11 @@
     "word": "罹る",
     "reading": "かかる",
     "meanings": [
-      "suffer from"
+      "to suffer from"
     ],
     "level": "N3",
     "meanings_id": [
-      "suffer from"
+      "to suffer from"
     ]
   },
   {
@@ -42500,13 +42500,13 @@
     "word": "轢く",
     "reading": "ひく",
     "meanings": [
-      "run somebody over (with vehicle)",
-      "knock someone down"
+      "to run somebody over (with vehicle)",
+      "to knock someone down"
     ],
     "level": "N3",
     "meanings_id": [
-      "run somebody over (with vehicle)",
-      "knock someone down"
+      "to run somebody over (with vehicle)",
+      "to knock someone down"
     ]
   }
 ]

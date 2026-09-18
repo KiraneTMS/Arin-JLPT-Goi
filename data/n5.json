@@ -3805,6 +3805,7 @@
     "word": "易しい",
     "reading": "やさしい",
     "meanings": [
+      "kind/gentle",
       "easy",
       "simple"
     ],
@@ -3820,6 +3821,7 @@
       }
     ],
     "meanings_id": [
+      "Baik hati / Ramah",
       "mudah",
       "sederhana"
     ]
@@ -3842,7 +3844,7 @@
       }
     ],
     "meanings_id": [
-      "berbeda"
+      "beda"
     ]
   },
   {
@@ -3968,7 +3970,7 @@
       }
     ],
     "meanings_id": [
-      "tahun sebelum terakhir"
+      "tahun sebelum tahun kemarin"
     ]
   },
   {
@@ -3989,7 +3991,7 @@
       }
     ],
     "meanings_id": [
-      "menjadi lebih baik"
+      "Bersama"
     ]
   },
   {
@@ -4010,15 +4012,15 @@
       }
     ],
     "meanings_id": [
-      "Hanya satu orang"
+      "satu orang"
     ]
   },
   {
     "word": "一日",
     "reading": "いちにち",
     "meanings": [
-      "(1) one day",
-      "(2) first of month"
+      "one day",
+      "first of month"
     ],
     "level": "N5",
     "examples": [
@@ -4032,8 +4034,8 @@
       }
     ],
     "meanings_id": [
-      "1 (satu) hari",
-      "(2) bulan pertama"
+      "satu hari",
+      "hari pertama bulan"
     ]
   },
   {
