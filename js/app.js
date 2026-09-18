@@ -627,13 +627,8 @@ function renderJftQuestion(item) {
 
   if (item.type === 'vocab') {
     $('#q-word').textContent = word.word;
-    if (word.reading && word.reading !== word.word) {
-      readingEl.textContent = word.reading;
-      readingEl.style.display = '';
-    } else {
-      readingEl.textContent = '';
-      readingEl.style.display = 'none';
-    }
+    readingEl.textContent = '';
+    readingEl.style.display = 'none';
     if (prompt) prompt.textContent = t('jft_prompt_vocab');
   } else if (item.type === 'expr') {
     // Sentence with target word highlighted — answer is the WORD meaning
@@ -643,7 +638,8 @@ function renderJftQuestion(item) {
       sent = sent.split(target).join('「' + target + '」');
     }
     $('#q-word').textContent = sent;
-    readingEl.textContent = word.word + (word.reading ? '（' + word.reading + '）' : '');
+    // Show target word only, no hiragana helper
+    readingEl.textContent = word.word;
     readingEl.style.display = '';
     if (prompt) prompt.textContent = t('jft_prompt_expr');
     // keep word-meaning options
@@ -689,13 +685,9 @@ function renderJftQuestion(item) {
 function renderQuestion(word) {
   $('#q-word').textContent = word.word;
   const readingEl = $('#q-reading');
-  if (word.reading && word.reading !== word.word) {
-    readingEl.textContent = word.reading;
-    readingEl.style.display = '';
-  } else {
-    readingEl.textContent = '';
-    readingEl.style.display = 'none';
-  }
+  // Hide hiragana reading helper — test kanji recognition without furigana
+  readingEl.textContent = '';
+  readingEl.style.display = 'none';
 
   const meanings = getMeanings(word);
   const correct = pickMeaning(meanings);
